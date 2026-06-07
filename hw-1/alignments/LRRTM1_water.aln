@@ -1,0 +1,427 @@
+########################################
+# Program: water
+# Rundate: Sat  4 Apr 2026 16:17:04
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20260404-161700-0772-64583420-p1m.asequence
+#    -bsequence emboss_water-I20260404-161700-0772-64583420-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NM_178839.5
+# 2: NM_001252638.1
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 4826
+# Identity:    1769/4826 (36.7%)
+# Similarity:  1769/4826 (36.7%)
+# Gaps:        2582/4826 (53.5%)
+# Score: 2538.0
+# 
+#
+#=======================================
+
+NM_178839.5        9 GTGAGCAGTAGGTGCCTGTGCAAGCTCGCGCCGCACACTGCCTGGTGGA-     57
+                     |.||..|||     ||.|||   ||..||||||             ||| 
+NM_001252638.      2 GGGACGAGT-----CCCGTG---GCCTGCGCCG-------------GGAC     30
+
+NM_178839.5       58 GGGAAGGAGCCCGGGCGCCGCTCGCC---GCT------------CCCCGC     92
+                     |.|.|.|.|.|||||.||.|||.|.|   |||            |.|||.
+NM_001252638.     31 GCGGACGCGGCCGGGTGCGGCTGGGCCATGCTGCCTTTGTGCCACGCCGG     80
+
+NM_178839.5       93 GC--------CGCCGTCCGCACCTCCCCACCG--CCCGC---CGCCCGCC    129
+                     ||        |||.||.||||....|||..||  |||||   |||.|||.
+NM_001252638.     81 GCGGGTGGCGCGCGGTGCGCAGGGTCCCGGCGTCCCCGCGAGCGCGCGCG    130
+
+NM_178839.5      130 GC-----CCGCCGC----CCGCAAAGCATGAGTGAGCCCGCTCT------    164
+                     ||     ||||.||    |.||      .|||.|||||.|.|||      
+NM_001252638.    131 GCGGGGGCCGCTGCTGAGCGGC------GGAGGGAGCCAGGTCTCGCTCG    174
+
+NM_178839.5      165 -CTG-----------CAGCTGCCCGGGGCGCGAATG-GCAGG-----CTG    196
+                      |||           ||||||             || |||||     |||
+NM_001252638.    175 GCTGCAGGGTAAGACCAGCTG-------------TGCGCAGGAACTCCTG    211
+
+NM_178839.5      197 T-------TTCCGCGGA-----------GTAAAAGG---------TGG--    217
+                     |       ||||..|||           |||||.||         |||  
+NM_001252638.    212 TTCTTCACTTCCCGGGAGCGAGAGCTTTGTAAATGGACTCTGACATGGAC    261
+
+NM_178839.5      218 --------------CG------CCGGTCA-----GTGGTCGT--------    234
+                                   ||      || .|||     ||||||||        
+NM_001252638.    262 TACGAACGACCCAACGTTGAGACC-ATCAAGTGCGTGGTCGTGGGCGACA    310
+
+NM_178839.5      235 -------------------------------------TTCCAA-------    240
+                                                          .|.|||       
+NM_001252638.    311 ACGCCGTAGGGAAGACGCGCCTCATCTGTGCCCGGGCCTGCAACACCACC    360
+
+NM_178839.5      241 -TGAC---------------------------------------GGACAT    250
+                      ||||                                       ||.|||
+NM_001252638.    361 CTGACACAGTACCAGCTGCTGGCCACCCATGTGCCCACCGTGTGGGCCAT    410
+
+NM_178839.5      251 TAACCAG-AC--TGTC-------AGATCCTG----------GGGA----G    276
+                     |.|.||| ||  ||||       ||.|||||          ||||    |
+NM_001252638.    411 TGATCAGTACCGTGTCTGCCAGGAGGTCCTGGAGCGGTCCAGGGATGTCG    460
+
+NM_178839.5      277 TC------GCGAGC----CCC-----------GA---GTTTGGA------    296
+                     ||      |.||||    |||           ||   |||||||      
+NM_001252638.    461 TCGATGAAGTGAGCATCTCCCTCAGGCTTTGGGACACGTTTGGAGATCAC    510
+
+NM_178839.5      297 --------------------------------GTTTT-----TTCCCCCC    309
+                                                     |||||     ||.|||||
+NM_001252638.    511 CACAAAGACAGGCGGTTCGCATATGGCAGGATGTTTTGACAGTTTCCCCC    560
+
+NM_178839.5      310 ACAACGTCACAGTCCGAACTGCAGAGGGAAAGGAAG--------------    345
+                     |||   |.||| ||.|.|||        .||.||||              
+NM_001252638.    561 ACA---TAACA-TCTGTACT--------TAAAGAAGCTTCACTGCTCTTG    598
+
+NM_178839.5      346 --------------------GCGGCAGGAAGGCGAAGCTCGGGCTCCGGC    375
+                                         ||...||.|..||||| |.|...||||   
+NM_001252638.    599 GTCCGATGTTGTGGTCCTCTGCTTTAGCATCGCGAA-CCCCAACTCC---    644
+
+NM_178839.5      376 ACGTAGT--TGGGAAA--CTTGCGGGTCCTAGAAGTC-----------GC    410
+                      |..|.|  ||.||||  |.||.||...|.||||.||           .|
+NM_001252638.    645 -CTAAATCATGTGAAAACCATGTGGTATCAAGAAATCAAGCACTTTTGCC    693
+
+NM_178839.5      411 CTC-----CCCG----CCT-------TGCCGGC-------------CGCC    431
+                     |||     ||||    |||       ||||.||             ||||
+NM_001252638.    694 CTCGAACGCCCGTCGTCCTGGTTGGCTGCCAGCTAGACCTCCGCTACGCC    743
+
+NM_178839.5      432 --CTTGCAGCC------CCGAGCC----------GAGCA--GC----AAA    457
+                       |.||.||.|      |||.|||          .||||  ||    |||
+NM_001252638.    744 GACCTGGAGGCTGTTAACCGGGCCAGACGCCCCTTAGCAAGGCCCATAAA    793
+
+NM_178839.5      458 GTGA---GACATTGTGCGCCTGCCAGA-----TCCGC----CGGCCGCGG    495
+                     |.||   ||||||.|||.|   |||||     .||||    .|||...||
+NM_001252638.    794 GAGAGGTGACATTTTGCCC---CCAGAAAAAGGCCGCGAGGTGGCGAAGG    840
+
+NM_178839.5      496 ACCGGGGCTGCCTCG------GAAAC------------------------    515
+                     |.|..|||..|| ||      ||.||                        
+NM_001252638.    841 AACTTGGCATCC-CGTACTACGAGACCAGCGTGTTTGACCAGTTTGGCAT    889
+
+NM_178839.5      516 --------------ACA---------GAGGGG---TCTTCTCTCGC----    535
+                                   |||         |||..|   ||.||||.|||    
+NM_001252638.    890 CAAGGACGTGTTCGACAATGCCATCCGAGCAGCCCTCATCTCCCGCCGGC    939
+
+NM_178839.5      536 -CCTGCATAT-----AATTAGCCTGCAC----ACAAAG----GGAGCAGC    571
+                      ||||||..|     |||   ||  |||    |.||||    |.|||..|
+NM_001252638.    940 ACCTGCAGTTCTGGAAAT---CC--CACTTGAAAAAAGTCCAGAAGCCTC    984
+
+NM_178839.5      572 TGAAT--GGAGGTTGTCACT------CTCTGGAA----------------    597
+                     ||..|  ||.|     |.||      |||.|.||                
+NM_001252638.    985 TGCTTCAGGCG-----CCCTTCCTACCTCCGAAAGCTCCTCCCCCGGTCA   1029
+
+NM_178839.5      598 --AAG------GATT-----TCT-----GACCGAGC---GCTTCC-----    621
+                       |||      ||.|     |||     |||| |||   |||.||     
+NM_001252638.   1030 TCAAGGTCCCCGAGTGTCCGTCTGCGGGGACC-AGCGATGCTGCCTGTTT   1078
+
+NM_178839.5      622 AATGGACATTCTCCAGT-----------CTCTCTGGAAAGATTCTC----    656
+                     |.||||||..|.||.||           ||||..|      |||||    
+NM_001252638.   1079 ACTGGACAACCCCCTGTGCGCCGACGTCCTCTTCG------TTCTCCATG   1122
+
+NM_178839.5      657 -------GCTAAT-----------GGATTTCCTGCTGCTCGGT--CTCT-    685
+                            ||..||           |.||||.|     ||||.|  |||| 
+NM_001252638.   1123 ACGAGGAGCACATCTTTGCGCACCGCATTTAC-----CTCGCTACCTCTT   1167
+
+NM_178839.5      686 --------GTCTA-----------TACTGG-CTGCTG-AGGAGGCCCTCG    714
+                             .||||           ||.||| .|| || ||.|..||||.|
+NM_001252638.   1168 CTTCCAAATTCTACGACCTTTTTTTAATGGAGTG-TGAAGAATCCCCTTG   1216
+
+NM_178839.5      715 --GGGGTGGTCTTGTGTCTGCTG----GGGGCC-TGC------TTTCAGA    751
+                       |||||||   .|...|||.||    ||.||| |||      ||||||.
+NM_001252638.   1217 TTGGGGTGG---AGGAGCTGGTGAGGAGGTGCCGTGCAGGGATTTTCAGG   1263
+
+NM_178839.5      752 TGCTG---------------CCCGCC----------------GCCCCCAG    770
+                     .||.|               .|.|||                ||||||||
+NM_001252638.   1264 GGCGGACGCAGAGTCTTGGATCAGCCGAGGAAGGGAAGGAGGGCCCCCAG   1313
+
+NM_178839.5      771 CGGGTGCCCGCA-GCTGTGCC-GGTGCG-----AGGGGCGG--CTGCTGT    811
+                      .||..|||.|| ||||..|| ||.|||     |||...||  ||||   
+NM_001252638.   1314 -AGGACCCCTCAGGCTGACCCAGGAGCGTCTTCAGGCCAGGACCTGC---   1359
+
+NM_178839.5      812 ACTGCGAG---GCGCT----------CAACCTC----ACCGAGG----CG    840
+                      |||.|||   | |||          .|.||||    .||||||    ||
+NM_001252638.   1360 -CTGAGAGTTTG-GCTTTGCAGATGGAAGCCTCGGGTTCCGAGGGACACG   1407
+
+NM_178839.5      841 CCCCACAACCTGTCCGGCCTG-----CTGGGCTTGTC--CCTGCGCTACA    883
+                     |       ||||||||| |||     ..|||.|||||  |.|||      
+NM_001252638.   1408 C-------CCTGTCCGG-CTGGAGCAAGGGGTTTGTCAGCATGC------   1443
+
+NM_178839.5      884 ACAGCCTCTCGGAGCTGCGCGCC----------------------GGCCA    911
+                     ||||      ||||.||||.|.|                      |.|||
+NM_001252638.   1444 ACAG------GGAGGTGCGGGTCAACCCCATTTCCAAGCGGGTGGGCCCA   1487
+
+NM_178839.5      912 GTTCACGGGGTTA--------------ATGCAGCTCACGTGGCTCTATCT    947
+                     ||...||.|||.|              |||||| |||   |||.||.||.
+NM_001252638.   1488 GTGACCGTGGTCAGGCTGGACCCATCGATGCAG-TCA---GGCCCTTTCC   1533
+
+NM_178839.5      948 GGA------TCACAATCACATCTGCTCCGTGCAGGGGGACGCCTTTCA--    989
+                     |||      |.|.|.|  |.|||.|||.|.||||..|||||      |  
+NM_001252638.   1534 GGACCCTGCTGAGATT--CCTCTACTCTGGGCAGCTGGACG------AAA   1575
+
+NM_178839.5      990 --GAAA-----CTGC-----------------GCCGAG------------   1003
+                       ||||     ||||                 ||||||            
+NM_001252638.   1576 AGGAAAAAGATCTGCTGGGGCTGGCTCAGATGGCCGAGGTCCTGGAGATG   1625
+
+NM_178839.5     1004 ----------------------------------------------TTA-   1006
+                                                                   ||| 
+NM_001252638.   1626 TTTGATCTGAGGATGATGGTAGAGAATATCATGAACAAGGAGGCTTTTAT   1675
+
+NM_178839.5     1007 -----AGGAACTCACG---------------CTGAGTTCCAACCAGATCA   1036
+                          ||||..|||||               |.||...||||.|.|||||
+NM_001252638.   1676 GAACCAGGAGATCACGAAAGCCTTCCACGTCCGGAAAGCCAATCGGATCA   1725
+
+NM_178839.5     1037 CCCAACTGCC----CAACACCACCTTC-----------------------   1059
+                     ...|| ||.|    |||...|||||||                       
+NM_001252638.   1726 AAGAA-TGTCTCAGCAAGGGCACCTTCTCAGACGTGACATTTACCTTGGA   1774
+
+NM_178839.5     1060 ---CGG-CCCAT----GCCCA-------------------ACCTGC----   1078
+                        ||| .||||    |||||                   |.||||    
+NM_001252638.   1775 TGACGGAGCCATCAGCGCCCACAAGCCGCTGCTGATCTGTAGCTGCGAAT   1824
+
+NM_178839.5     1079 -----GCAGC-------------------GTGG-----------------   1087
+                          ||.||                   ||||                 
+NM_001252638.   1825 GGATGGCGGCCATGTTCGGGGGTTCCTTTGTGGAAAGCGCCAACCGTGAG   1874
+
+NM_178839.5     1088 ----ACCTCTC----GTACAACAA------GCTGCAGGCG----------   1113
+                         |||||.|    .|| |||||      |.||||||||          
+NM_001252638.   1875 GTTCACCTCCCAAATATA-AACAAGATGTCGATGCAGGCGGTGTTGGAAT   1923
+
+NM_178839.5     1114 --CTC---------------GCGCCC------GACCT-------------   1127
+                       |||               .|.|||      |||||             
+NM_001252638.   1924 ACCTCTACACCAAGCAGTTGTCACCCAACTTGGACCTGGACCCCCTGGAG   1973
+
+NM_178839.5     1128 ---------------------------CTTCCAC----GG----------   1136
+                                                ||..|||    ||          
+NM_001252638.   1974 TTAATTGCCTTGGCAAACAGATTTTGCCTGACACACTTGGTTGCTCTCGT   2023
+
+NM_178839.5     1137 ----------GCTG--CGGAAGCTCACCA----CGCT-------------   1157
+                               ||||  |.|.|||||||||    ||||             
+NM_001252638.   2024 AGAGCAGCATGCTGTCCAGGAGCTCACCAAGGCCGCTGTCAGTGGTGTGA   2073
+
+NM_178839.5     1158 GCAT--AT-----------------------GCGGGC---------CAAC   1173
+                     ||||  ||                       ||.|||         |||.
+NM_001252638.   2074 GCATCGATGGTGAAGTTCTCTCCTACTTGGAGCTGGCACAGTTTCACAAT   2123
+
+NM_178839.5     1174 GCCATCCAGTTTG-TGCCCG-----TG---CGCATCT--TCCAGGACTGC   1212
+                     ||||..|||.|.| ||||.|     ||   |.|||||  .|||  |||.|
+NM_001252638.   2124 GCCAATCAGCTAGCTGCCTGGTGTTTGCATCACATCTGCACCA--ACTAC   2171
+
+NM_178839.5     1213 CGCAGCCT------CAAGTTTCTC---GACATCGGATACAA-TCAGC---   1249
+                     ..||||.|      ||||||.|.|   ||.|||..||.||| |||||   
+NM_001252638.   2172 AACAGCGTCTGTTCCAAGTTCCGCAAGGAAATCAAATCCAAGTCAGCAGA   2221
+
+NM_178839.5     1250 ---TCAAGAGT-CT---GGCGCGCAACTCTTTCGCCGGCT-TGT------   1285
+                        .||.|||| ||   .||| |||.|.|  |.|||..|| |||      
+NM_001252638.   2222 CAACCAGGAGTACTTTGAGCG-GCACCGC--TGGCCCCCTGTGTGGTACC   2268
+
+NM_178839.5     1286 TTAAG-----------CT--CACCG-----AGCTGCACCTCGAGCACAAC   1317
+                     |.|||           ||  ||.||     ||..|.|.|..|||.|..|.
+NM_001252638.   2269 TGAAGGAGGAAGACCACTACCAGCGTGTGAAGAGGGAACGAGAGAAAGAG   2318
+
+NM_178839.5     1318 GACTTGG-----------------TCAAGGTGAA-------CTTCGCCCA   1343
+                     |||.|||                 ||||||.|||       .|||...||
+NM_001252638.   2319 GACCTGGCGCTGAACAAGCACCATTCAAGGAGAAAGTGGTGTTTCTGGCA   2368
+
+NM_178839.5     1344 CTTCCCGCGCCTCATCTCCCTGCACTCGCTCT-GCCTGCGGAGGA-----   1387
+                      |||           .||||  ||   |||.| |||||.||||||     
+NM_001252638.   2369 -TTC-----------GTCCC--CA---GCTGTCGCCTGAGGAGGAGAGAG   2401
+
+NM_178839.5     1388 ---------AC-----AAGGTGG------CCATTGTGGTCAGCTC-----   1412
+                              ||     |||  ||      |||.|||.|.||||||     
+NM_001252638.   2402 GGGACCGTCACCCGCTAAG--GGCCACCTCCACTGTTGACAGCTCTACTA   2449
+
+NM_178839.5     1413 ------------------------------------GCTGG---ACTGGG   1423
+                                                         .||||   .||||.
+NM_001252638.   2450 TAAAAACCAGTCTCCTTAGCCATCCGCACAGTTGGGTCTGGGGCCCTGGC   2499
+
+NM_178839.5     1424 TTT---------------------------GGA------------ACCTG   1434
+                     |||                           |||            .||||
+NM_001252638.   2500 TTTTCCACTCGTGTGCATTTACCTCCACCAGGATCAAAGCACAAGCCCTG   2549
+
+NM_178839.5     1435 --------GAG---------AAAATG----------GACT----TGTCGG   1453
+                             |||         ||||.|          ||||    .|||..
+NM_001252638.   2550 CCACCAATGAGCAGGGACATAAAAGGAAAGCTGACTGACTCTGAAGTCCT   2599
+
+NM_178839.5     1454 GCAACGAG-----------------------------------ATCGAGT   1468
+                     .||||.||                                   |.|.|.|
+NM_001252638.   2600 TCAACCAGAATGTCCTTTTGGTTTTTTTCTTTCTTGGTTAGGAAGCTACT   2649
+
+NM_178839.5     1469 ACA-TGGAGCCC----CATGTGTTC-----GAGAC---------------   1493
+                     ||| |..||.||    | |.|||||     ||.||               
+NM_001252638.   2650 ACACTTCAGTCCGTTAC-TTTGTTCCTTTTGATACAAAGAAAAAAAAACA   2698
+
+NM_178839.5     1494 ------------CGTGCCGCACCTGCAGTCC---CTGCAG----------   1518
+                                 ||||.|.||    .|.|||   .||.||          
+NM_001252638.   2699 AAATCCAGCTTTCGTGTCTCA----GATTCCAGATTGGAGAATATTTTTC   2744
+
+NM_178839.5     1519 -CTGGACTC-------------------CAA-------------------   1529
+                      .|||||||                   |||                   
+NM_001252638.   2745 TATGGACTCTTGTATTTCACTGAGGTGACAATACTGTGTATTACTTTATT   2794
+
+NM_178839.5     1530 ----CCGCCTCACCT--ACATCGA----GCCCCGGATCCTC-----AACT   1564
+                         ..|||.|||.|  ||..|||    |||||    ||.|     .|||
+NM_001252638.   2795 TTATAGGCCACACATTGACCACGAAGCTGCCCC----CCCCCCCGTGACT   2840
+
+NM_178839.5     1565 CTTGGAAGTC------CCTGAC----AAGCATCACCC-------------   1591
+                     |||     ||      |.||||    .||||||||.|             
+NM_001252638.   2841 CTT-----TCAGCCCACGTGACCACTGAGCATCACTCATAATTACAGAGT   2885
+
+NM_178839.5     1592 -----------TGGCCGGGAA------------------CCTGTGGGATT   1612
+                                |||..||.||                  ||||..|.|||
+NM_001252638.   2886 TATCCTTTCGTTGGGAGGTAAAGGGTTGAGCTGAAGAGGCCTGAAGTATT   2935
+
+NM_178839.5     1613 ---GC-----GGGCGCAACGTGTGTGCCCT----AGCCTCGTGGCTCA--   1648
+                        ||     |.||..||  |.|.|||.||    ||||.|||.|.| |  
+NM_001252638.   2936 CAAGCTAGAAGCGCTTAA--TCTTTGCTCTGATGAGCCACGTTGGT-ATA   2982
+
+NM_178839.5     1649 -----------ACA-----------------------ACTTCCAGGG---   1661
+                                |||                       |.||.||.||   
+NM_001252638.   2983 ATTATGTATTTACAGGATCTCCTTTTTAAGTGCTAGTAATTACATGGTTA   3032
+
+NM_178839.5     1662 -----GC------GCTAC---GATGGCAA---------------------   1676
+                          ||      |||||   ||.|||||                     
+NM_001252638.   3033 TCCGTGCCATATAGCTACAGTGAGGGCAAATATCCTACTGTTTAAGAGGT   3082
+
+NM_178839.5     1677 ---------------------CTTGC----------AGTGC----GCCAG   1691
+                                          |||.|          ||.||    .|||.
+NM_001252638.   3083 CTAGATTCAAAGAGGACAATCCTTACAATCATTACAAGGGCTTATTCCAC   3132
+
+NM_178839.5     1692 CCCGGAGTACGCACAGGGCGAGGAC---GTCCTGGACGCCGTGT------   1732
+                     |||  |.|.|...|||||..|.|||   .|.|.|||| |||.||      
+NM_001252638.   3133 CCC--AATCCTATCAGGGGCATGACTGACTGCCGGAC-CCGGGTCCCTAC   3179
+
+NM_178839.5     1733 -ACGCC-TTCCACCTGTGCGAGGATGGGGCCGAG-CCCACCAGCGGCCAC   1779
+                      ||||| ||                     |||| ||.||||..||..|.
+NM_001252638.   3180 AACGCCATT---------------------CGAGTCCTACCATTGGATAA   3208
+
+NM_178839.5     1780 C-------------------------TGCTCTCG------------GCCG   1792
+                     |                         |||||| |            |||.
+NM_001252638.   3209 CTATGTCAGGGTTGGTGACTTAAAAGTGCTCT-GTGGTTTTGCTGTGCCT   3257
+
+NM_178839.5     1793 TCACC----AACCG--------------CAGTGATCTGGG----------   1814
+                     |||||    |||||              |||.|||..|||          
+NM_001252638.   3258 TCACCAGCAAACCGTCCTAGGGCCTGAACAGAGATAAGGGAAAGGGAAAA   3307
+
+NM_178839.5     1815 ------GCCCCCTG------------CCAGCTCGGCCAC-CACGCTCGCG   1845
+                           .|||.|||            .||.|||||||.| ||| ||    
+NM_001252638.   3308 GGCTCATCCCACTGTCTTCAGGTCAATCACCTCGGCCTCACAC-CT----   3352
+
+NM_178839.5     1846 GACGGCGGGGAGGGGCAGCACGACGGCACATT------CGAGCCTGCCAC   1889
+                              ||||      .|.||..|||.||      |.|| .||....
+NM_001252638.   3353 ---------GAGG------CCAACTTCACTTTGTAAGACAAG-TTGTTGT   3386
+
+NM_178839.5     1890 CGTGG---------------------------------------CTCTT-   1899
+                     .||.|                                       ||||| 
+NM_001252638.   3387 TGTTGTTGTTGTTGTTGTTGTTGTTGTTCTTTTTGTTTTTTTAACTCTTC   3436
+
+NM_178839.5     1900 CCAGG--------CGGCGAGCAC--------GCCGAGAACGCCGTGCAGA   1933
+                     |||||        .||..|.|||        |||.||        |||||
+NM_001252638.   3437 CCAGGGAAAATTCAGGTCACCACTAAAGTAGGCCAAG--------GCAGA   3478
+
+NM_178839.5     1934 -----------TCCACAAGGTGGTCAC-----------------------   1949
+                                |||||..||| .||||                       
+NM_001252638.   3479 CCACCTGCTTCTCCACTCGGT-CTCACCACAGAGCCTGTGAAAGCACAAA   3527
+
+NM_178839.5     1950 -----GGGCACCATGGCCCT-CATCTTCTCC-------------------   1974
+                          |||  ||| ||.||| |  |||||||                   
+NM_001252638.   3528 GCTAGGGG--CCA-GGTCCTGC--CTTCTCCAAGCAGGGAAAGGAGCCAA   3572
+
+NM_178839.5     1975 TTCCTCATCGT---GGTCCTGGTGCT-CTACGTGTCCTGGAAGTGTTTCC   2020
+                     .||||.|..||   ||...||||||| .||.|||        ||..|||.
+NM_001252638.   3573 ATCCTAAGAGTGTGGGGAATGGTGCTATTATGTG--------GTAATTCT   3614
+
+NM_178839.5     2021 CAGCCAG----CCTCAGGCAGCTCAG-------ACAGTGCTTTGTCACGC   2059
+                     .|.||.|    |||..||.||.||||       ||||..|||      ||
+NM_001252638.   3615 GACCCCGGGTCCCTTGGGAAGATCAGTGTTAGAACAGAACTT------GC   3658
+
+NM_178839.5     2060 AGCGCAGG---------AAGC-----------------------------   2071
+                     |..|||||         ||||                             
+NM_001252638.   3659 AAAGCAGGGGAGCTCTCAAGCGGCATCAACGTCATTGCCTCTCTGCAGAT   3708
+
+NM_178839.5     2072 AAAA--------------------------GCAGAAACAGAC--------   2087
+                     ||||                          |||.|.|||.||        
+NM_001252638.   3709 AAAATGTTACAGTATAATATACACGTGTGTGCACACACACACACACACAC   3758
+
+NM_178839.5     2088 ---CATGCATCAGATGG--------------CTGCC-----ATGTC-TGC   2114
+                        ||..|||||||..|              |||||     ||||| ||.
+NM_001252638.   3759 ACACAATCATCAGAGAGTCACAGCTCCACACCTGCCACGGGATGTCGTGT   3808
+
+NM_178839.5     2115 CCAGGA-----------ATACTACGTTGA---------TTAC-AAACCGA   2143
+                     .|.|||           ||.||  |||||         |||| .|..|.|
+NM_001252638.   3809 GCTGGACACCGGGGCCCATTCT--GTTGAGAGGTCACCTTACTGATGCTA   3856
+
+NM_178839.5     2144 ACCAC-ATTGA-------------------------------------GG   2155
+                     |...| |||||                                     ||
+NM_001252638.   3857 AGGGCTATTGATTTTTGTTTGTTTGTTTGTTTGTTTGTTTTTGTTTGGGG   3906
+
+NM_178839.5     2156 GAGCCCTGGTGAT--------CATCAACGAG-------------------   2178
+                     |||    ||.|.|        ||..||.|||                   
+NM_001252638.   3907 GAG----GGAGTTTCTGAAGACAGGAAAGAGTCAGTTGAGTCCAAATGCC   3952
+
+NM_178839.5     2179 -TATG----------GCTCGTGTACCTG-CCACCAGCAGCCCGCGAGGGA   2216
+                      ||||          ||| |||||   | ||||..||||           
+NM_001252638.   3953 ATATGGATTTGAAAAGCT-GTGTA---GACCACAGGCAG-----------   3987
+
+NM_178839.5     2217 ATGCGAGGTGTGATTGTCCCAGTGGCTCTCA-ACC-----CATGCGCT--   2258
+                         |.|.|.||.||.|..|| |||| |.|| |||     ||.|.|||  
+NM_001252638.   3988 ----GCGTTTTGTTTCTGGCA-TGGC-CACATACCAGATACAAGAGCTTA   4031
+
+NM_178839.5     2259 -----ACCAA-------AT-ACGCCT-------------GGGCAGCC---   2279
+                          |||.|       || || |||             ||| ||||   
+NM_001252638.   4032 GAAAGACCCAGGAAGGCATCAC-CCTCTTGTGGCAGAGAGGG-AGCCGCA   4079
+
+NM_178839.5     2280 -GGGACGGGCCGGCGGGCACCAGGCTGGGGTCTCCTTGTCTGTGCTCTGA   2328
+                      ||||.||| .|||||      ||..||||.|..|||.||....||    
+NM_001252638.   4080 GGGGAAGGG-GGGCGG------GGAGGGGGACAGCTTATCAAGCCT----   4118
+
+NM_178839.5     2329 TATGCTCCTTGACTGAAACTTT----------------------------   2350
+                       |.|.||||      ||||||                            
+NM_001252638.   4119 --TCCCCCTT------AACTTTGTTAATAGGGCAAATGGCTGACGGAAAG   4160
+
+NM_178839.5     2351 --AAGG-----GGATCTCTCCCAG----------------AGACTTG---   2374
+                       ||||     |||        ||                |||||||   
+NM_001252638.   4161 AGAAGGTGGGTGGA--------AGGAAAGAGTACACGTCAAGACTTGAGG   4202
+
+NM_178839.5     2375 -------ACATTTTAGC-----------------TTTATTGTGT------   2394
+                            ||| |.||||                 ||.|.||.||      
+NM_001252638.   4203 AGAAGGAACA-TATAGCCACCTAGAGGTTCTGTTTTCAGTGAGTAGGCCT   4251
+
+NM_178839.5     2395 -------CTT-AAAAACAAAAGC-----------GAATT------AAAAC   2419
+                            ||| ||.|||.|||||           |.|.|      |||||
+NM_001252638.   4252 AGTTGAACTTCAACAACCAAAGCTCCATCCGCTTGTACTCTTGCCAAAAC   4301
+
+NM_178839.5     2420 ACAACAAAAAACCCCACCCCACAACCTTCA-----GGAC---AGTCTATC   2461
+                     ||||||.|           ||||..|.|.|     ||||   || |.|| 
+NM_001252638.   4302 ACAACAGA-----------CACATACATGAACATGGGACGAAAG-CAAT-   4338
+
+NM_178839.5     2462 TTAAATTTCATATGAGAACTC-----CTTC----CTCCCTTTGAA-----   2497
+                        |||.||.|       |||     ||||    ||.|  |.|||     
+NM_001252638.   4339 ---AATATCCT-------CTCGTGTTCTTCACAGCTGC--TGGAACCAAG   4376
+
+NM_178839.5     2498 --GATCT-GTCCATATTCAGGAATCTGA---GAGTGTAAAAAAGGTACCA   2541
+                       |  || ||.|||.|....||..||||   |..|.||        ||||
+NM_001252638.   4377 TGG--CTGGTTCATTTGGTTGACACTGATCCGCCTTTA--------ACCA   4416
+
+NM_178839.5     2542 --ATCATTGATTTTTTTTTTTTTTGT---------------------AAA   2568
+                       ||..||..||||.|.|||.|||||                     |||
+NM_001252638.   4417 CGATGGTTCGTTTTGTGTTTGTTTGTTTTTTTAATTTCACAGAAAGCAAA   4466
+
+NM_178839.5     2569 CTAAAA-TGTTTA-----AAATAAAA   2588
+                      ||||| ||||||     |||.||||
+NM_001252638.   4467 -TAAAATTGTTTAGCTATAAAAAAAA   4491
+
+
+#---------------------------------------
+#---------------------------------------
