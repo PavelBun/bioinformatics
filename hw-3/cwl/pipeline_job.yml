@@ -1,0 +1,12 @@
+fastq1:
+  class: File
+  path: ../data/DRR063440_1.fastq.gz
+fastq2:
+  class: File
+  path: ../data/DRR063440_2.fastq.gz
+reference:
+  class: File
+  path: ../data/reference.fna
+parser_script:
+  class: File
+  path: ../parse_flagstat.py

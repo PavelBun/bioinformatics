@@ -1,0 +1,113 @@
+C:\Programming\bio\venv\Lib\site-packages\cwltool\main.py:1460: UserWarning: The CWL reference runner (cwltool) no longer supports running CWL workflows natively on MS Windows as its previous MS Windows support was incomplete and untested. Instead, please see https://pypi.org/project/cwltool/#ms-windows-users for instructions on running cwltool via Windows Subsystem for Linux 2 (WSL2). If don't need to execute CWL documents, then you can ignore this warning, but please consider migrating to https://pypi.org/project/cwl-utils/ for your CWL document processing needs.
+  warnings.warn(
+[1;30mINFO[0m C:\Programming\bio\venv\Lib\site-packages\cwltool\__main__.py 3.2.20260413085819
+[1;30mINFO[0m Resolved 'cwl/pipeline.cwl' to 'file:///C:/Programming/bio/cwl/pipeline.cwl'
+[1;30mWARNING[0m [33mWorkflow checker warning:
+..\..\C:\Programming\bio\cwl\pipeline.cwl:115:11:     Source 'indexed_bam' of type ["null", "File"]
+                                                      may be incompatible
+..\..\C:\Programming\bio\cwl\pipeline.cwl:126:7:        with sink 'bam' of type "File"
+                                                        Source is from conditional step and may
+                                                        produce `null`
+..\..\C:\Programming\bio\cwl\pipeline.cwl:115:11:     Source 'indexed_bam' of type ["null", "File"]
+                                                      may be incompatible
+..\..\C:\Programming\bio\cwl\pipeline.cwl:126:7:        with sink 'bam' of type "File"
+..\..\C:\Programming\bio\cwl\pipeline.cwl:104:11:     Source 'sorted_bam' of type ["null", "File"]
+                                                      may be incompatible
+..\..\C:\Programming\bio\cwl\pipeline.cwl:114:7:        with sink 'bam' of type "File"
+                                                        Source is from conditional step and may
+                                                        produce `null`
+..\..\C:\Programming\bio\cwl\pipeline.cwl:104:11:     Source 'sorted_bam' of type ["null", "File"]
+                                                      may be incompatible
+..\..\C:\Programming\bio\cwl\pipeline.cwl:114:7:        with sink 'bam' of type "File"
+..\..\C:\Programming\bio\cwl\pipeline.cwl:71:7:       Parameter 'reference' requires secondaryFiles
+                                                      ['.amb', '.ann', '.bwt', '.pac', '.sa'] but
+..\..\C:\Programming\bio\cwl\pipeline.cwl:66:11:        source 'indexed_reference' does not
+                                                        provide those secondaryFiles.
+..\..\C:\Programming\bio\cwl\samtools_faidx.cwl:22:5:   To resolve, add missing secondaryFiles
+                                                        patterns to definition of
+                                                        'indexed_reference' or
+..\..\C:\Programming\bio\cwl\bwa_mem.cwl:16:5:          mark missing secondaryFiles in definition
+                                                        of 'reference' as optional.[0m
+[1;30mINFO[0m [workflow ] start
+[1;30mINFO[0m [workflow ] starting step fastqc
+[1;30mINFO[0m [step fastqc] start
+[1;30mINFO[0m [job fastqc] C:\Users\paxa_\AppData\Local\Temp\vgd3zi0w$ docker \
+    run \
+    -i \
+    --mount=type=bind,source=C:\Users\paxa_\AppData\Local\Temp\vgd3zi0w,target=/WliDQF \
+    --mount=type=bind,source=C:\Users\paxa_\AppData\Local\Temp\4e65b2vx,target=/tmp \
+    --mount=type=bind,source=C:\Programming\bio\data\DRR063440_1.fastq.gz,target=/WliDQF\DRR063440_1.fastq.gz,readonly \
+    --mount=type=bind,source=C:\Programming\bio\data\DRR063440_2.fastq.gz,target=/WliDQF\DRR063440_2.fastq.gz,readonly \
+    --workdir=/WliDQF \
+    --read-only=true \
+    --user=1000:1000 \
+    --rm \
+    --cidfile=C:\Users\paxa_\AppData\Local\Temp\2ti3b5ln\20260607183837-512384.cid \
+    --env=TMPDIR=/tmp \
+    --env=HOME=/WliDQF \
+    biocontainers/fastqc:v0.11.9_cv8 \
+    fastqc \
+    -o \
+    /WliDQF \
+    /WliDQF\DRR063440_1.fastq.gz \
+    /WliDQF\DRR063440_2.fastq.gz
+Started analysis of WliDQF\DRR063440_1.fastq.gz
+Approx 5% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 10% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 15% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 20% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 25% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 30% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 35% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 40% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 45% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 50% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 55% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 60% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 65% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 70% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 75% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 80% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 85% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 90% complete for WliDQF\DRR063440_1.fastq.gz
+Approx 95% complete for WliDQF\DRR063440_1.fastq.gz
+Analysis complete for WliDQF\DRR063440_1.fastq.gz
+Started analysis of WliDQF\DRR063440_2.fastq.gz
+Approx 5% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 10% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 15% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 20% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 25% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 30% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 35% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 40% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 45% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 50% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 55% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 60% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 65% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 70% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 75% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 80% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 85% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 90% complete for WliDQF\DRR063440_2.fastq.gz
+Approx 95% complete for WliDQF\DRR063440_2.fastq.gz
+Analysis complete for WliDQF\DRR063440_2.fastq.gz
+[1;30mINFO[0m [job fastqc] Max memory used: 1449MiB
+[1;30mERROR[0m [31mException while running job: [WinError 1314] Клиент не обладает требуемыми правами: 'C:\\Programming\\bio\\data\\DRR063440_1.fastq.gz' -> 'C:\\Users\\paxa_\\AppData\\Local\\Temp\\vgd3zi0w\\DRR063440_1.fastq.gz'[0m
+[1;30mWARNING[0m [33m[job fastqc] completed permanentFail[0m
+[1;30mERROR[0m [31m[step fastqc] Output is missing expected field file:///C:/Programming/bio/cwl/pipeline.cwl#fastqc/html_reports[0m
+[1;30mERROR[0m [31m[step fastqc] Output is missing expected field file:///C:/Programming/bio/cwl/pipeline.cwl#fastqc/zip_reports[0m
+[1;30mWARNING[0m [33m[step fastqc] completed permanentFail[0m
+[1;30mINFO[0m [workflow ] completed permanentFail
+{
+    "assessment_result": null,
+    "bam": null,
+    "fastqc_html_reports": null,
+    "fastqc_zip_reports": null,
+    "flagstat_report": null,
+    "indexed_bam": null,
+    "sam": null,
+    "sorted_bam": null,
+    "vcf": null
+}[1;30mWARNING[0m [33mFinal process status is permanentFail[0m
