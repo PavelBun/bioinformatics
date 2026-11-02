@@ -1,0 +1,51 @@
+№	Variant_ID	rsID	Gene	ClinVar_Status	ClinVar_Significance_Raw	ClinVar_Significance_RU
+1	chr21:25592836_G>A	rs1135638	MRPL39	Нет записи	Not reported	Отсутствует в ClinVar
+2	chr21:25592893_T>C	rs1057885	MRPL39	Нет записи	Not reported	Отсутствует в ClinVar
+3	chr21:33415005_A>G	rs9808753	IFNGR2	Есть	benign	Доброкачественный (Benign)
+4	chr21:33427015_A>G	rs17878711	IFNGR2	Есть	benign, likely_benign	Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+5	chr21:37065660_T>G	rs73901831	PIGP	Есть	benign	Доброкачественный (Benign)
+6	chr21:38821689_C>T	rs116476013	ETS2	Есть	benign	Доброкачественный (Benign)
+7	chr21:43094699_G>A	rs61737061	U2AF1	Нет записи	Not reported	Отсутствует в ClinVar
+8	chr21:43969159_C>T	rs75532875	AGPAT3	Нет записи	Not reported	Отсутствует в ClinVar
+9	chr22:17181903_A>G	rs7289170	ADA2	Есть	benign	Доброкачественный (Benign)
+10	chr22:19378003_G>C	rs115877869	HIRA	Нет записи	Not reported	Отсутствует в ClinVar
+11	chr22:19396832_C>T	rs9618556	HIRA	Есть	benign, likely_benign	Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+12	chr22:19979849_G>A	rs114932611	ARVCF	Нет записи	Not reported	Отсутствует в ClinVar
+13	chr22:19979957_C>G	rs74544696	ARVCF	Есть	benign	Доброкачественный (Benign)
+14	chr22:19980020_G>A	rs1058399	ARVCF	Есть	benign	Доброкачественный (Benign)
+15	chr22:21643926_C>T	rs115706909	SDF2L1	Нет записи	Not reported	Отсутствует в ClinVar
+16	chr22:21964166_C>T	rs9610728	TOP3B	Есть	benign	Доброкачественный (Benign)
+17	chr22:21964299_G>A	rs9610729	TOP3B	Есть	benign	Доброкачественный (Benign)
+18	chr22:23146672_C>T	rs61747143	RAB36	Нет записи	Not reported	Отсутствует в ClinVar
+19	chr22:23152491_C>T	rs114023206	RAB36	Нет записи	Not reported	Отсутствует в ClinVar
+20	chr22:23160895_A>T	rs115006916	RAB36	Нет записи	Not reported	Отсутствует в ClinVar
+21	chr22:24183535_T>A	rs9680526	CABIN1	Нет записи	Not reported	Отсутствует в ClinVar
+22	chr22:24184189_C>G	rs115180746	SUSD2	Нет записи	Not reported	Отсутствует в ClinVar
+23	chr22:24186268_C>T	rs115684319	SUSD2	Есть	benign	Доброкачественный (Benign)
+24	chr22:30264324_G>C	rs114880151	OSM	Нет записи	Not reported	Отсутствует в ClinVar
+25	chr22:30427209_T>C	rs5753130	SEC14L2	Нет записи	Not reported	Отсутствует в ClinVar
+26	chr22:30461386_A>C	rs2240345	SEC14L3	Нет записи	Not reported	Отсутствует в ClinVar
+27	chr22:30466386_G>A	rs116469787	SEC14L3	Нет записи	Not reported	Отсутствует в ClinVar
+28	chr22:31091696_C>T	rs11913728	SMTN	Нет записи	Not reported	Отсутствует в ClinVar
+29	chr22:31091828_G>A	rs115143483	SMTN	Нет записи	Not reported	Отсутствует в ClinVar
+30	chr22:31095309_G>C	rs3205187	SMTN	Нет записи	Not reported	Отсутствует в ClinVar
+31	chr22:31262170_C>T	rs5997927	LIMK2	Нет записи	Not reported	Отсутствует в ClinVar
+32	chr22:31267856_C>G	rs2228619	LIMK2	Нет записи	Not reported	Отсутствует в ClinVar
+33	chr22:33304315_G>A	rs113253213	LARGE1	Есть	uncertain_significance, benign, likely_benign	Неопределенного значения (VUS), Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+34	chr22:33304411_G>A	rs34292743	LARGE1	Есть	benign, likely_benign	Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+35	chr22:33316147_G>A	rs115686643	LARGE1	Есть	uncertain_significance	Неопределенного значения (VUS)
+36	chr22:33650466_G>A	rs59349720	LARGE1	Есть	benign, likely_benign	Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+37	chr22:33650633_G>T	rs115801300	LARGE1	Нет записи	Not reported	Отсутствует в ClinVar
+38	chr22:39225792_G>T	rs35978693	PDGFB	Есть	benign, likely_benign	Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+39	chr22:39231625_G>C	rs55634318	PDGFB	Есть	benign, likely_benign	Доброкачественный (Benign), Вероятно доброкачественный (Likely Benign)
+40	chr22:39374495_G>A	rs35429467	SYNGR1	Нет записи	Not reported	Отсутствует в ClinVar
+41	chr22:39744158_G>A	rs112945971	ENTHD1	Нет записи	Not reported	Отсутствует в ClinVar
+42	chr22:39765567_C>G	rs111738363	ENTHD1	Нет записи	Not reported	Отсутствует в ClinVar
+43	chr22:39887557_A>G	rs8139570	ENTHD1	Нет записи	Not reported	Отсутствует в ClinVar
+44	chr22:40019319_C>T	rs115365592	FAM83F	Нет записи	Not reported	Отсутствует в ClinVar
+45	chr22:40021491_C>T	rs11914082	FAM83F	Нет записи	Not reported	Отсутствует в ClinVar
+46	chr22:40021790_C>T	rs115818503	FAM83F	Нет записи	Not reported	Отсутствует в ClinVar
+47	chr22:44891338_T>C	rs115264708	PHF21B	Нет записи	Not reported	Отсутствует в ClinVar
+48	chr22:44916394_G>A	rs115694109	PHF21B	Нет записи	Not reported	Отсутствует в ClinVar
+49	chr22:44916465_C>T	rs8135982	PHF21B	Нет записи	Not reported	Отсутствует в ClinVar
+50	chr22:50177576_C>G	rs35195493	PANX2	Нет записи	Not reported	Отсутствует в ClinVar

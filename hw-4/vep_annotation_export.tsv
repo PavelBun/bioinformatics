@@ -1,0 +1,572 @@
+Uploaded_variation	Location	Allele	Gene	Feature	Feature_type	Consequence	cDNA_position	CDS_position	Protein_position	Amino_acids	Codons	Existing_variation	IMPACT	BIOTYPE	CANONICAL	MANE_SELECT	SIFT	PolyPhen	CLIN_SIG	gnomADg_AF	gnomADe_AF
+rs1135638	21:25592836	A	MRPL39	NM_017446.4	Transcript	synonymous_variant	903	897	299	G	ggC/ggT	rs1135638	LOW	protein_coding	YES	ENST00000352957.9	-	-	Not reported	0.7834	0.8019
+rs1135638	21:25592836	A	MRPL39	NM_080794.4	Transcript	synonymous_variant	903	897	299	G	ggC/ggT	rs1135638	LOW	protein_coding	NO	-	-	-	Not reported	0.7834	0.8019
+rs1135638	21:25592836	A	MRPL39	XM_006724026.5	Transcript	synonymous_variant	903	897	299	G	ggC/ggT	rs1135638	LOW	protein_coding	NO	-	-	-	Not reported	0.7834	0.8019
+rs1135638	21:25592836	A	MRPL39	XM_011529651.3	Transcript	synonymous_variant	983	771	257	G	ggC/ggT	rs1135638	LOW	protein_coding	NO	-	-	-	Not reported	0.7834	0.8019
+rs1057885	21:25592893	C	MRPL39	NM_017446.4	Transcript	synonymous_variant	846	840	280	V	gtA/gtG	rs1057885	LOW	protein_coding	YES	ENST00000352957.9	-	-	Not reported	0.7833	0.8015
+rs1057885	21:25592893	C	MRPL39	NM_080794.4	Transcript	synonymous_variant	846	840	280	V	gtA/gtG	rs1057885	LOW	protein_coding	NO	-	-	-	Not reported	0.7833	0.8015
+rs1057885	21:25592893	C	MRPL39	XM_006724026.5	Transcript	synonymous_variant	846	840	280	V	gtA/gtG	rs1057885	LOW	protein_coding	NO	-	-	-	Not reported	0.7833	0.8015
+rs1057885	21:25592893	C	MRPL39	XM_011529651.3	Transcript	synonymous_variant	926	714	238	V	gtA/gtG	rs1057885	LOW	protein_coding	NO	-	-	-	Not reported	0.7833	0.8015
+rs9808753	21:33415005	G	IFNGR2	NM_001329128.2	Transcript	missense_variant	910	248	83	Q/R	cAa/cGa	rs9808753	MODERATE	protein_coding	NO	-	tolerated(0.96)	benign(0)	benign	0.1787	0.162
+rs9808753	21:33415005	G	IFNGR2	NM_005534.4	Transcript	missense_variant	322	191	64	Q/R	cAa/cGa	rs9808753	MODERATE	protein_coding	YES	ENST00000290219.11	tolerated(0.94)	benign(0.001)	benign	0.1787	0.162
+rs17878711	21:33427015	G	IFNGR2	NM_001329128.2	Transcript	missense_variant	1263	601	201	K/E	Aaa/Gaa	rs17878711	MODERATE	protein_coding	NO	-	tolerated(0.17)	benign(0.038)	benign, likely_benign	0.01016	0.001012
+rs17878711	21:33427015	G	IFNGR2	NM_005534.4	Transcript	missense_variant	675	544	182	K/E	Aaa/Gaa	rs17878711	MODERATE	protein_coding	YES	ENST00000290219.11	tolerated(0.14)	benign(0.038)	benign, likely_benign	0.01016	0.001012
+rs73901831	21:37065660	G	PIGP	NM_001320480.2	Transcript	synonymous_variant	573	327	109	P	ccA/ccC	rs73901831	LOW	protein_coding	NO	-	-	-	benign	0.006604	0.0006968
+rs73901831	21:37065660	G	PIGP	NM_016430.4	Transcript	synonymous_variant	587	249	83	P	ccA/ccC	rs73901831	LOW	protein_coding	NO	-	-	-	benign	0.006604	0.0006968
+rs73901831	21:37065660	G	PIGP	NM_153681.2	Transcript	synonymous_variant	615	399	133	P	ccA/ccC	rs73901831	LOW	protein_coding	NO	-	-	-	benign	0.006604	0.0006968
+rs73901831	21:37065660	G	PIGP	NM_153682.3	Transcript	synonymous_variant	421	327	109	P	ccA/ccC	rs73901831	LOW	protein_coding	YES	ENST00000360525.9	-	-	benign	0.006604	0.0006968
+rs116476013	21:38821689	T	ETS2	NM_001256295.2	Transcript	synonymous_variant	1763	1599	533	L	ctC/ctT	rs116476013	LOW	protein_coding	NO	-	-	-	benign	0.001025	0.0003705
+rs116476013	21:38821689	T	ETS2	NM_005239.6	Transcript	synonymous_variant	1371	1179	393	L	ctC/ctT	rs116476013	LOW	protein_coding	YES	ENST00000360938.8	-	-	benign	0.001025	0.0003705
+rs116476013	21:38821689	T	ETS2	XM_005260935.2	Transcript	synonymous_variant	2059	1179	393	L	ctC/ctT	rs116476013	LOW	protein_coding	NO	-	-	-	benign	0.001025	0.0003705
+rs116476013	21:38821689	T	ETS2	XM_017028290.2	Transcript	synonymous_variant	3539	1179	393	L	ctC/ctT	rs116476013	LOW	protein_coding	NO	-	-	-	benign	0.001025	0.0003705
+rs61737061	21:43094699	A	U2AF1	NM_001025203.1	Transcript	synonymous_variant	522	438	146	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	NM_001025204.2	Transcript	synonymous_variant	581	219	73	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	NM_006758.3	Transcript	synonymous_variant	514	438	146	P	ccC/ccT	rs61737061	LOW	protein_coding	YES	ENST00000291552.9	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	XM_011529743.4	Transcript	synonymous_variant	423	339	113	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	XM_017028468.3	Transcript	synonymous_variant	423	339	113	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	XM_024452129.2	Transcript	synonymous_variant	576	219	73	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	XM_024452130.2	Transcript	synonymous_variant	636	219	73	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs61737061	21:43094699	A	U2AF1	XM_024452131.2	Transcript	synonymous_variant	582	219	73	P	ccC/ccT	rs61737061	LOW	protein_coding	NO	-	-	-	Not reported	0.005193	0.001725
+rs75532875	21:43969159	T	AGPAT3	NM_001037553.2	Transcript	synonymous_variant	492	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	NM_001369878.1	Transcript	synonymous_variant	561	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	NM_001369880.1	Transcript	synonymous_variant	628	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	NM_001369881.1	Transcript	synonymous_variant	512	204	68	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	NM_020132.5	Transcript	synonymous_variant	624	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	YES	ENST00000291572.13	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_005261160.5	Transcript	synonymous_variant	738	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_006724030.4	Transcript	synonymous_variant	514	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_006724031.4	Transcript	synonymous_variant	449	204	68	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_011529661.3	Transcript	synonymous_variant	402	204	68	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_011529663.3	Transcript	synonymous_variant	380	204	68	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_017028408.2	Transcript	synonymous_variant	516	480	160	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_017028411.2	Transcript	synonymous_variant	450	204	68	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440914.1	Transcript	synonymous_variant	690	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440915.1	Transcript	synonymous_variant	1217	849	283	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440916.1	Transcript	synonymous_variant	1425	849	283	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440917.1	Transcript	synonymous_variant	729	462	154	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440918.1	Transcript	synonymous_variant	591	336	112	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440919.1	Transcript	synonymous_variant	570	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440920.1	Transcript	synonymous_variant	1312	651	217	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440921.1	Transcript	synonymous_variant	769	462	154	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440922.1	Transcript	synonymous_variant	2089	462	154	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440923.1	Transcript	synonymous_variant	751	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440924.1	Transcript	synonymous_variant	753	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440925.1	Transcript	synonymous_variant	626	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440926.1	Transcript	synonymous_variant	865	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440927.1	Transcript	synonymous_variant	648	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440928.1	Transcript	synonymous_variant	619	390	130	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs75532875	21:43969159	T	AGPAT3	XM_047440929.1	Transcript	synonymous_variant	458	204	68	P	ccC/ccT	rs75532875	LOW	protein_coding	NO	-	-	-	Not reported	0.008477	0.002443
+rs7289170	22:17181903	G	ADA2	NM_001282225.2	Transcript	synonymous_variant	1485	1359	453	Y	taT/taC	rs7289170	LOW	protein_coding	YES	ENST00000399837.8	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	NM_001282226.2	Transcript	synonymous_variant	1452	1359	453	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	NM_001282227.2	Transcript	synonymous_variant	1402	1233	411	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	NM_001282228.2	Transcript	synonymous_variant	1360	1233	411	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	NM_001282229.2	Transcript	synonymous_variant	1117	999	333	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	NM_177405.3	Transcript	synonymous_variant	713	636	212	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	XM_011546133.3	Transcript	synonymous_variant	1527	1359	453	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs7289170	22:17181903	G	ADA2	XM_047441407.1	Transcript	synonymous_variant	1073	666	222	Y	taT/taC	rs7289170	LOW	protein_coding	NO	-	-	-	benign	0.2792	0.3095
+rs115877869	22:19378003	C	HIRA	NM_003325.4	Transcript	synonymous_variant	1736	1479	493	L	ctC/ctG	rs115877869	LOW	protein_coding	YES	ENST00000263208.5	-	-	Not reported	6.568e-05	8.911e-06
+rs9618556	22:19396832	T	HIRA	NM_003325.4	Transcript	synonymous_variant	866	609	203	T	acG/acA	rs9618556	LOW	protein_coding	YES	ENST00000263208.5	-	-	benign, likely_benign	0.003427	0.001191
+rs114932611	22:19979849	A	ARVCF	NM_001410839.1	Transcript	synonymous_variant	1204	1101	367	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438683.1	Transcript	synonymous_variant	1204	1101	367	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438684.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438685.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438687.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438690.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438693.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001438694.1	Transcript	synonymous_variant	1204	1101	367	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	NM_001670.3	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	YES	ENST00000263207.8	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_005261242.4	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_006724243.4	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_006724246.5	Transcript	synonymous_variant	4411	1044	348	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_011530179.4	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_011530180.2	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_011530181.2	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_011530182.4	Transcript	upstream_gene_variant	-	-	-	-	-	rs114932611	MODIFIER	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_047441367.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_047441369.1	Transcript	synonymous_variant	1597	1290	430	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XM_047441372.1	Transcript	synonymous_variant	1204	1101	367	G	ggC/ggT	rs114932611	LOW	protein_coding	NO	-	-	-	Not reported	6.564e-06	0.0
+rs114932611	22:19979849	A	ARVCF	XR_007067973.1	Transcript	non_coding_transcript_exon_variant	1597	-	-	-	-	rs114932611	MODIFIER	misc_RNA	NO	-	-	-	Not reported	6.564e-06	0.0
+rs74544696	22:19979957	G	ARVCF	NM_001410839.1	Transcript	synonymous_variant	1096	993	331	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438683.1	Transcript	synonymous_variant	1096	993	331	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438684.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438685.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438687.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438690.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438693.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001438694.1	Transcript	synonymous_variant	1096	993	331	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	NM_001670.3	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	YES	ENST00000263207.8	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_005261242.4	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_006724243.4	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_006724246.5	Transcript	synonymous_variant	4303	936	312	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_011530179.4	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_011530180.2	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_011530181.2	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_011530182.4	Transcript	upstream_gene_variant	-	-	-	-	-	rs74544696	MODIFIER	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_047441367.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_047441369.1	Transcript	synonymous_variant	1489	1182	394	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XM_047441372.1	Transcript	synonymous_variant	1096	993	331	R	cgG/cgC	rs74544696	LOW	protein_coding	NO	-	-	-	benign	0.0236	0.02063
+rs74544696	22:19979957	G	ARVCF	XR_007067973.1	Transcript	non_coding_transcript_exon_variant	1489	-	-	-	-	rs74544696	MODIFIER	misc_RNA	NO	-	-	-	benign	0.0236	0.02063
+rs1058399	22:19980020	A	ARVCF	NM_001410839.1	Transcript	synonymous_variant	1033	930	310	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438683.1	Transcript	synonymous_variant	1033	930	310	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438684.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438685.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438687.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438690.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438693.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001438694.1	Transcript	synonymous_variant	1033	930	310	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	NM_001670.3	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	YES	ENST00000263207.8	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_005261242.4	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_006724243.4	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_006724246.5	Transcript	synonymous_variant	4240	873	291	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_011530179.4	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_011530180.2	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_011530181.2	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_011530182.4	Transcript	upstream_gene_variant	-	-	-	-	-	rs1058399	MODIFIER	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_047441367.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_047441369.1	Transcript	synonymous_variant	1426	1119	373	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XM_047441372.1	Transcript	synonymous_variant	1033	930	310	P	ccC/ccT	rs1058399	LOW	protein_coding	NO	-	-	-	benign	0.05678	0.006655
+rs1058399	22:19980020	A	ARVCF	XR_007067973.1	Transcript	non_coding_transcript_exon_variant	1426	-	-	-	-	rs1058399	MODIFIER	misc_RNA	NO	-	-	-	benign	0.05678	0.006655
+rs115706909	22:21643926	T	SDF2L1	NM_022044.3	Transcript	synonymous_variant	452	417	139	G	ggC/ggT	rs115706909	LOW	protein_coding	YES	ENST00000248958.5	-	-	Not reported	0.0006965	9.374e-05
+rs9610728	22:21964166	T	TOP3B	NM_001282112.2	Transcript	missense_variant	1249	1093	365	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	YES	ENST00000357179.10	tolerated(0.26)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001282113.2	Transcript	missense_variant	1242	1093	365	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.26)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001349845.2	Transcript	missense_variant	1285	1093	365	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.26)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001349847.2	Transcript	missense_variant	1456	1093	365	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.26)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001349848.2	Transcript	missense_variant	1331	685	229	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.27)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001349850.2	Transcript	missense_variant	1367	685	229	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.27)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001349851.2	Transcript	missense_variant	1331	685	229	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.27)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_001349852.2	Transcript	missense_variant	1367	685	229	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.27)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NM_003935.5	Transcript	missense_variant	1565	1093	365	D/N	Gac/Aac	rs9610728	MODERATE	protein_coding	NO	-	tolerated(0.26)	benign(0.005)	benign	0.1167	0.1124
+rs9610728	22:21964166	T	TOP3B	NR_146277.2	Transcript	non_coding_transcript_exon_variant	1331	-	-	-	-	rs9610728	MODIFIER	misc_RNA	NO	-	-	-	benign	0.1167	0.1124
+rs9610729	22:21964299	A	TOP3B	NM_001282112.2	Transcript	synonymous_variant	1116	960	320	H	caC/caT	rs9610729	LOW	protein_coding	YES	ENST00000357179.10	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001282113.2	Transcript	synonymous_variant	1109	960	320	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001349845.2	Transcript	synonymous_variant	1152	960	320	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001349847.2	Transcript	synonymous_variant	1323	960	320	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001349848.2	Transcript	synonymous_variant	1198	552	184	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001349850.2	Transcript	synonymous_variant	1234	552	184	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001349851.2	Transcript	synonymous_variant	1198	552	184	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_001349852.2	Transcript	synonymous_variant	1234	552	184	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NM_003935.5	Transcript	synonymous_variant	1432	960	320	H	caC/caT	rs9610729	LOW	protein_coding	NO	-	-	-	benign	0.1049	0.1112
+rs9610729	22:21964299	A	TOP3B	NR_146277.2	Transcript	non_coding_transcript_exon_variant	1198	-	-	-	-	rs9610729	MODIFIER	misc_RNA	NO	-	-	-	benign	0.1049	0.1112
+rs61747143	22:23146672	T	RAB36	NM_001349877.1	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	tolerated(0.15)	benign(0.014)	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	NM_001349878.1	Transcript	missense_variant	296	254	85	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	tolerated(0.12)	benign(0.061)	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	NM_004914.5	Transcript	missense_variant	143	56	19	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	YES	ENST00000263116.8	tolerated(0.12)	benign(0.006)	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RSPH14	NM_014433.3	Transcript	upstream_gene_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	YES	ENST00000216036.9	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	NR_146295.3	Transcript	intron_variant,non_coding_transcript_variant	-	-	-	-	-	rs61747143	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_006724381.5	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RSPH14	XM_011530149.3	Transcript	upstream_gene_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RSPH14	XM_011530150.2	Transcript	upstream_gene_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RSPH14	XM_011530152.3	Transcript	upstream_gene_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_011530544.4	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_011530545.3	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_011530546.3	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_011530547.3	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_011530550.3	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RSPH14	XM_017028774.2	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_017029104.2	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_017029105.2	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_017029107.2	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_047441618.1	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_047441619.1	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_047441620.1	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_047441621.1	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_047441622.1	Transcript	intron_variant	-	-	-	-	-	rs61747143	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs61747143	22:23146672	T	RAB36	XM_047441623.1	Transcript	missense_variant	368	326	109	A/V	gCc/gTc	rs61747143	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002627	0.0002504
+rs114023206	22:23152491	T	RAB36	NM_001349877.1	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	NM_001349878.1	Transcript	synonymous_variant	432	390	130	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	NM_004914.5	Transcript	synonymous_variant	279	192	64	G	ggC/ggT	rs114023206	LOW	protein_coding	YES	ENST00000263116.8	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	NR_146295.3	Transcript	non_coding_transcript_exon_variant	198	-	-	-	-	rs114023206	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_006724381.5	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_011530544.4	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_011530545.3	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_011530546.3	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_011530547.3	Transcript	synonymous_variant	351	309	103	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_011530550.3	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_011530552.3	Transcript	upstream_gene_variant	-	-	-	-	-	rs114023206	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RSPH14	XM_017028774.2	Transcript	intron_variant	-	-	-	-	-	rs114023206	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_017029104.2	Transcript	synonymous_variant	423	381	127	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_017029105.2	Transcript	synonymous_variant	351	309	103	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_017029107.2	Transcript	missense_variant	423	143	48	A/V	gCg/gTg	rs114023206	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_047441618.1	Transcript	synonymous_variant	423	381	127	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_047441619.1	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_047441620.1	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_047441621.1	Transcript	missense_variant	677	143	48	A/V	gCg/gTg	rs114023206	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_047441622.1	Transcript	synonymous_variant	351	309	103	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs114023206	22:23152491	T	RAB36	XM_047441623.1	Transcript	synonymous_variant	504	462	154	G	ggC/ggT	rs114023206	LOW	protein_coding	NO	-	-	-	Not reported	0.0004662	4.515e-05
+rs115006916	22:23160895	T	RAB36	NM_001349877.1	Transcript	synonymous_variant	948	906	302	A	gcA/gcT	rs115006916	LOW	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	NM_001349878.1	Transcript	missense_variant	856	814	272	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.16)	benign(0.06)	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	NM_004914.5	Transcript	synonymous_variant	723	636	212	A	gcA/gcT	rs115006916	LOW	protein_coding	YES	ENST00000263116.8	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	NR_146295.3	Transcript	non_coding_transcript_exon_variant	638	-	-	-	-	rs115006916	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_006724381.5	Transcript	missense_variant	928	886	296	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_011530544.4	Transcript	synonymous_variant	924	882	294	A	gcA/gcT	rs115006916	LOW	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_011530545.3	Transcript	synonymous_variant	948	906	302	A	gcA/gcT	rs115006916	LOW	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_011530546.3	Transcript	missense_variant	928	886	296	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_011530547.3	Transcript	missense_variant	775	733	245	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_011530550.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs115006916	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_011530552.3	Transcript	missense_variant	898	340	114	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RSPH14	XM_017028774.2	Transcript	intron_variant	-	-	-	-	-	rs115006916	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_017029104.2	Transcript	missense_variant	847	805	269	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_017029105.2	Transcript	synonymous_variant	795	753	251	A	gcA/gcT	rs115006916	LOW	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_017029107.2	Transcript	missense_variant	782	502	168	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_047441618.1	Transcript	synonymous_variant	867	825	275	A	gcA/gcT	rs115006916	LOW	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_047441619.1	Transcript	3_prime_UTR_variant	944	-	-	-	-	rs115006916	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_047441620.1	Transcript	3_prime_UTR_variant	857	-	-	-	-	rs115006916	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_047441621.1	Transcript	missense_variant	1036	502	168	I/F	Att/Ttt	rs115006916	MODERATE	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_047441622.1	Transcript	3_prime_UTR_variant	704	-	-	-	-	rs115006916	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs115006916	22:23160895	T	RAB36	XM_047441623.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs115006916	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.001818	0.0001745
+rs9680526	22:24183535	A	CABIN1	NM_001199281.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	NM_001201429.2	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	NM_012295.4	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	YES	ENST00000263119.10	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	SUSD2	NM_019601.4	Transcript	missense_variant	361	328	110	S/T	Tcc/Acc	rs9680526	MODERATE	protein_coding	YES	ENST00000358321.4	tolerated(0.13)	benign(0.052)	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_005261415.4	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_005261416.4	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_005261417.4	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_005261419.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_006724179.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_006724180.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_006724181.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_011530026.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_017028680.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_017028681.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_017028683.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_024452184.2	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_024452186.2	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_024452187.2	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441217.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441218.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441219.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441220.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441221.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441222.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441223.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441224.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441225.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441226.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441227.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441228.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441229.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441230.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441231.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441232.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441233.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441234.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441235.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441236.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441237.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441238.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441239.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441240.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441241.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441242.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441243.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441244.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441245.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441246.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs9680526	22:24183535	A	CABIN1	XM_047441247.1	Transcript	downstream_gene_variant	-	-	-	-	-	rs9680526	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.02667	0.01856
+rs115180746	22:24184189	G	SUSD2	NM_019601.4	Transcript	missense_variant	526	493	165	R/G	Cgt/Ggt	rs115180746	MODERATE	protein_coding	YES	ENST00000358321.4	deleterious(0)	benign(0.049)	Not reported	0.006775	0.0006722
+rs115684319	22:24186268	T	SUSD2	NM_019601.4	Transcript	missense_variant	1528	1495	499	R/C	Cgt/Tgt	rs115684319	MODERATE	protein_coding	YES	ENST00000358321.4	deleterious(0)	possibly_damaging(0.655)	benign	0.01275	0.001256
+rs114880151	22:30264324	C	OSM	NM_001319108.2	Transcript	synonymous_variant	966	255	85	V	gtC/gtG	rs114880151	LOW	protein_coding	NO	-	-	-	Not reported	0.0004594	5.884e-05
+rs114880151	22:30264324	C	OSM	NM_020530.6	Transcript	synonymous_variant	370	318	106	V	gtC/gtG	rs114880151	LOW	protein_coding	YES	ENST00000215781.3	-	-	Not reported	0.0004594	5.884e-05
+rs114880151	22:30264324	C	OSM	XM_047441387.1	Transcript	synonymous_variant	1730	255	85	V	gtC/gtG	rs114880151	LOW	protein_coding	NO	-	-	-	Not reported	0.0004594	5.884e-05
+rs5753130	22:30427209	C	MTFP1	NM_001003704.3	Transcript	intron_variant	-	-	-	-	-	rs5753130	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.4931	0.473
+rs5753130	22:30427209	C	SEC14L2	NM_001204204.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs5753130	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.4931	0.473
+rs5753130	22:30427209	C	SEC14L2	NM_001291932.2	Transcript	downstream_gene_variant	-	-	-	-	-	rs5753130	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.4931	0.473
+rs5753130	22:30427209	C	SEC14L2	NM_012429.5	Transcript	downstream_gene_variant	-	-	-	-	-	rs5753130	MODIFIER	protein_coding	YES	ENST00000615189.5	-	-	Not reported	0.4931	0.473
+rs5753130	22:30427209	C	MTFP1	NM_016498.5	Transcript	synonymous_variant	346	234	78	T	acT/acC	rs5753130	LOW	protein_coding	YES	ENST00000266263.10	-	-	Not reported	0.4931	0.473
+rs2240345	22:30461386	C	SEC14L3	NM_001257378.2	Transcript	missense_variant	1282	774	258	D/E	gaT/gaG	rs2240345	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.7047	0.6348
+rs2240345	22:30461386	C	SEC14L3	NM_001257379.2	Transcript	missense_variant	1112	828	276	D/E	gaT/gaG	rs2240345	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.7047	0.6348
+rs2240345	22:30461386	C	SEC14L3	NM_001257382.2	Transcript	missense_variant	1182	828	276	D/E	gaT/gaG	rs2240345	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.7047	0.6348
+rs2240345	22:30461386	C	SEC14L3	NM_001376914.1	Transcript	missense_variant	1112	828	276	D/E	gaT/gaG	rs2240345	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.7047	0.6348
+rs2240345	22:30461386	C	SEC14L3	NM_174975.5	Transcript	missense_variant	1064	1005	335	D/E	gaT/gaG	rs2240345	MODERATE	protein_coding	YES	ENST00000215812.9	tolerated(1)	benign(0)	Not reported	0.7047	0.6348
+rs2240345	22:30461386	C	SEC14L3	XM_011530128.3	Transcript	missense_variant	1064	1005	335	D/E	gaT/gaG	rs2240345	MODERATE	protein_coding	NO	-	-	-	Not reported	0.7047	0.6348
+rs116469787	22:30466386	A	SEC14L3	NM_001257378.2	Transcript	synonymous_variant	805	297	99	G	ggC/ggT	rs116469787	LOW	protein_coding	NO	-	-	-	Not reported	0.002707	0.0003133
+rs116469787	22:30466386	A	SEC14L3	NM_001257379.2	Transcript	synonymous_variant	635	351	117	G	ggC/ggT	rs116469787	LOW	protein_coding	NO	-	-	-	Not reported	0.002707	0.0003133
+rs116469787	22:30466386	A	SEC14L3	NM_001257382.2	Transcript	synonymous_variant	705	351	117	G	ggC/ggT	rs116469787	LOW	protein_coding	NO	-	-	-	Not reported	0.002707	0.0003133
+rs116469787	22:30466386	A	SEC14L3	NM_001376914.1	Transcript	synonymous_variant	635	351	117	G	ggC/ggT	rs116469787	LOW	protein_coding	NO	-	-	-	Not reported	0.002707	0.0003133
+rs116469787	22:30466386	A	SEC14L3	NM_174975.5	Transcript	synonymous_variant	587	528	176	G	ggC/ggT	rs116469787	LOW	protein_coding	YES	ENST00000215812.9	-	-	Not reported	0.002707	0.0003133
+rs116469787	22:30466386	A	SEC14L3	XM_011530128.3	Transcript	synonymous_variant	587	528	176	G	ggC/ggT	rs116469787	LOW	protein_coding	NO	-	-	-	Not reported	0.002707	0.0003133
+rs11913728	22:31091696	T	SMTN	NM_001207017.1	Transcript	missense_variant	1704	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0.05)	possibly_damaging(0.65)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001207018.2	Transcript	missense_variant	1726	1649	550	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.302)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382638.1	Transcript	missense_variant	1830	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.402)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382639.1	Transcript	missense_variant	2195	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.402)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382640.1	Transcript	missense_variant	1631	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.402)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382641.1	Transcript	missense_variant	1936	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.402)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382642.1	Transcript	missense_variant	2027	1763	588	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	possibly_damaging(0.635)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382643.1	Transcript	missense_variant	1917	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	possibly_damaging(0.498)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382644.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	possibly_damaging(0.498)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382645.1	Transcript	missense_variant	1936	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	possibly_damaging(0.558)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382646.1	Transcript	missense_variant	1700	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	possibly_damaging(0.498)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382647.1	Transcript	missense_variant	1936	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.013)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_001382648.1	Transcript	missense_variant	1903	455	152	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.302)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_006932.5	Transcript	missense_variant	1700	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.082)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_134269.3	Transcript	missense_variant	1700	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	YES	ENST00000333137.12	deleterious(0)	benign(0.402)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NM_134270.3	Transcript	missense_variant	1700	1481	494	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0)	benign(0.227)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NR_168472.1	Transcript	non_coding_transcript_exon_variant	1690	-	-	-	-	rs11913728	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NR_168473.1	Transcript	non_coding_transcript_exon_variant	1844	-	-	-	-	rs11913728	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NR_168474.1	Transcript	non_coding_transcript_exon_variant	1700	-	-	-	-	rs11913728	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	NR_168475.1	Transcript	non_coding_transcript_exon_variant	1700	-	-	-	-	rs11913728	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_011530336.3	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_011530338.3	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_011530339.3	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_017028913.2	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	deleterious(0.05)	possibly_damaging(0.65)	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_017028914.2	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_017028917.2	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_017028918.2	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_047441466.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_047441467.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_047441468.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_047441469.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_047441470.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs11913728	22:31091696	T	SMTN	XM_047441471.1	Transcript	missense_variant	1787	1643	548	A/V	gCg/gTg	rs11913728	MODERATE	protein_coding	NO	-	-	-	Not reported	0.00974	0.0009622
+rs115143483	22:31091828	A	SMTN	NM_001207017.1	Transcript	missense_variant	1836	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.23)	benign(0.181)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001207018.2	Transcript	missense_variant	1858	1781	594	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.26)	benign(0.035)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382638.1	Transcript	missense_variant	1962	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.25)	benign(0.078)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382639.1	Transcript	missense_variant	2327	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.25)	benign(0.078)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382640.1	Transcript	missense_variant	1763	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.25)	benign(0.078)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382641.1	Transcript	missense_variant	2068	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.25)	benign(0.078)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382642.1	Transcript	missense_variant	2159	1895	632	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.18)	benign(0.052)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382643.1	Transcript	missense_variant	2049	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.21)	benign(0.052)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382644.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.21)	benign(0.052)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382645.1	Transcript	missense_variant	2068	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.21)	benign(0.106)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382646.1	Transcript	missense_variant	1832	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.09)	benign(0.127)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382647.1	Transcript	missense_variant	2068	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.28)	benign(0.194)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_001382648.1	Transcript	missense_variant	2035	587	196	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.26)	benign(0.035)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_006932.5	Transcript	missense_variant	1832	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.17)	benign(0.023)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_134269.3	Transcript	missense_variant	1832	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	YES	ENST00000333137.12	tolerated(0.25)	benign(0.078)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NM_134270.3	Transcript	missense_variant	1832	1613	538	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.22)	benign(0.049)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NR_168472.1	Transcript	non_coding_transcript_exon_variant	1822	-	-	-	-	rs115143483	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NR_168473.1	Transcript	non_coding_transcript_exon_variant	1976	-	-	-	-	rs115143483	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NR_168474.1	Transcript	non_coding_transcript_exon_variant	1832	-	-	-	-	rs115143483	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	NR_168475.1	Transcript	non_coding_transcript_exon_variant	1832	-	-	-	-	rs115143483	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_011530336.3	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_011530338.3	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_011530339.3	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_017028913.2	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	tolerated(0.23)	benign(0.181)	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_017028914.2	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_017028917.2	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_017028918.2	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_047441466.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_047441467.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_047441468.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_047441469.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_047441470.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs115143483	22:31091828	A	SMTN	XM_047441471.1	Transcript	missense_variant	1919	1775	592	R/Q	cGa/cAa	rs115143483	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002036	0.0002135
+rs3205187	22:31095309	C	SMTN	NM_001207017.1	Transcript	missense_variant	1955	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.001)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001207018.2	Transcript	missense_variant	1884	1807	603	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382638.1	Transcript	missense_variant	1988	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.003)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382639.1	Transcript	missense_variant	2353	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.003)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382640.1	Transcript	missense_variant	1789	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.003)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382641.1	Transcript	missense_variant	2094	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.003)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382642.1	Transcript	missense_variant	2185	1921	641	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382643.1	Transcript	missense_variant	2075	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382644.1	Transcript	missense_variant	1945	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382645.1	Transcript	missense_variant	2187	1732	578	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382646.1	Transcript	missense_variant	1858	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.001)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382647.1	Transcript	missense_variant	2094	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.001)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_001382648.1	Transcript	missense_variant	2061	613	205	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_006932.5	Transcript	missense_variant	1858	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_134269.3	Transcript	missense_variant	1858	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	YES	ENST00000333137.12	tolerated(1)	benign(0.003)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NM_134270.3	Transcript	missense_variant	1858	1639	547	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NR_168472.1	Transcript	non_coding_transcript_exon_variant	1848	-	-	-	-	rs3205187	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NR_168473.1	Transcript	non_coding_transcript_exon_variant	2002	-	-	-	-	rs3205187	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NR_168474.1	Transcript	non_coding_transcript_exon_variant	1858	-	-	-	-	rs3205187	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	NR_168475.1	Transcript	non_coding_transcript_exon_variant	1951	-	-	-	-	rs3205187	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_011530336.3	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_011530338.3	Transcript	missense_variant	1945	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_011530339.3	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_017028913.2	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	tolerated(1)	benign(0.001)	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_017028914.2	Transcript	missense_variant	1945	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_017028917.2	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_017028918.2	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_047441466.1	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_047441467.1	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_047441468.1	Transcript	missense_variant	1945	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_047441469.1	Transcript	missense_variant	2038	1894	632	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_047441470.1	Transcript	missense_variant	1945	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs3205187	22:31095309	C	SMTN	XM_047441471.1	Transcript	missense_variant	1945	1801	601	A/P	Gca/Cca	rs3205187	MODERATE	protein_coding	NO	-	-	-	Not reported	0.5766	0.6299
+rs5997927	22:31262170	T	LIMK2	NM_001031801.2	Transcript	synonymous_variant	858	525	175	N	aaC/aaT	rs5997927	LOW	protein_coding	NO	-	-	-	Not reported	0.0002954	2.394e-05
+rs5997927	22:31262170	T	LIMK2	NM_005569.4	Transcript	synonymous_variant	699	588	196	N	aaC/aaT	rs5997927	LOW	protein_coding	YES	ENST00000331728.9	-	-	Not reported	0.0002954	2.394e-05
+rs5997927	22:31262170	T	LIMK2	NM_016733.3	Transcript	synonymous_variant	858	525	175	N	aaC/aaT	rs5997927	LOW	protein_coding	NO	-	-	-	Not reported	0.0002954	2.394e-05
+rs2228619	22:31267856	G	LIMK2	NM_001031801.2	Transcript	synonymous_variant	1479	1146	382	L	ctC/ctG	rs2228619	LOW	protein_coding	NO	-	-	-	Not reported	0.7899	0.7298
+rs2228619	22:31267856	G	LIMK2	NM_005569.4	Transcript	synonymous_variant	1320	1209	403	L	ctC/ctG	rs2228619	LOW	protein_coding	YES	ENST00000331728.9	-	-	Not reported	0.7899	0.7298
+rs2228619	22:31267856	G	LIMK2	NM_016733.3	Transcript	synonymous_variant	1479	1146	382	L	ctC/ctG	rs2228619	LOW	protein_coding	NO	-	-	-	Not reported	0.7899	0.7298
+rs113253213	22:33304315	A	LARGE1	NM_001362949.2	Transcript	synonymous_variant	1993	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001362951.2	Transcript	synonymous_variant	1813	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001362953.2	Transcript	synonymous_variant	1930	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378624.1	Transcript	synonymous_variant	1876	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378625.1	Transcript	synonymous_variant	2011	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378626.1	Transcript	synonymous_variant	1948	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378627.1	Transcript	synonymous_variant	1813	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378628.1	Transcript	synonymous_variant	2208	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378629.1	Transcript	synonymous_variant	2052	1488	496	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378630.1	Transcript	synonymous_variant	1147	1041	347	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_001378631.1	Transcript	synonymous_variant	991	885	295	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_004737.7	Transcript	synonymous_variant	2271	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	NM_133642.5	Transcript	synonymous_variant	2208	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	YES	ENST00000397394.8	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_011530513.3	Transcript	synonymous_variant	5245	546	182	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_024452302.2	Transcript	synonymous_variant	2271	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_047441599.1	Transcript	synonymous_variant	7893	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_047441600.1	Transcript	synonymous_variant	2381	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_047441601.1	Transcript	synonymous_variant	8391	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_047441602.1	Transcript	synonymous_variant	2356	1644	548	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_047441603.1	Transcript	synonymous_variant	7836	978	326	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XM_047441606.1	Transcript	synonymous_variant	1147	1041	347	N	aaC/aaT	rs113253213	LOW	protein_coding	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XR_002958722.2	Transcript	non_coding_transcript_exon_variant	2208	-	-	-	-	rs113253213	MODIFIER	misc_RNA	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XR_007067993.1	Transcript	non_coding_transcript_exon_variant	2271	-	-	-	-	rs113253213	MODIFIER	misc_RNA	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs113253213	22:33304315	A	LARGE1	XR_007067994.1	Transcript	non_coding_transcript_exon_variant	2271	-	-	-	-	rs113253213	MODIFIER	misc_RNA	NO	-	-	-	uncertain_significance, benign, likely_benign	0.001588	0.0001765
+rs34292743	22:33304411	A	LARGE1	NM_001362949.2	Transcript	synonymous_variant	1897	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001362951.2	Transcript	synonymous_variant	1717	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001362953.2	Transcript	synonymous_variant	1834	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378624.1	Transcript	synonymous_variant	1780	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378625.1	Transcript	synonymous_variant	1915	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378626.1	Transcript	synonymous_variant	1852	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378627.1	Transcript	synonymous_variant	1717	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378628.1	Transcript	synonymous_variant	2112	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378629.1	Transcript	synonymous_variant	1956	1392	464	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378630.1	Transcript	synonymous_variant	1051	945	315	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_001378631.1	Transcript	synonymous_variant	895	789	263	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_004737.7	Transcript	synonymous_variant	2175	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	NM_133642.5	Transcript	synonymous_variant	2112	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	YES	ENST00000397394.8	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_011530513.3	Transcript	synonymous_variant	5149	450	150	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_024452302.2	Transcript	synonymous_variant	2175	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_047441599.1	Transcript	synonymous_variant	7797	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_047441600.1	Transcript	synonymous_variant	2285	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_047441601.1	Transcript	synonymous_variant	8295	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_047441602.1	Transcript	synonymous_variant	2260	1548	516	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_047441603.1	Transcript	synonymous_variant	7740	882	294	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XM_047441606.1	Transcript	synonymous_variant	1051	945	315	Y	taC/taT	rs34292743	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XR_002958722.2	Transcript	non_coding_transcript_exon_variant	2112	-	-	-	-	rs34292743	MODIFIER	misc_RNA	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XR_007067993.1	Transcript	non_coding_transcript_exon_variant	2175	-	-	-	-	rs34292743	MODIFIER	misc_RNA	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs34292743	22:33304411	A	LARGE1	XR_007067994.1	Transcript	non_coding_transcript_exon_variant	2175	-	-	-	-	rs34292743	MODIFIER	misc_RNA	NO	-	-	-	benign, likely_benign	0.02403	0.002487
+rs115686643	22:33316147	A	LARGE1	NM_001362949.2	Transcript	synonymous_variant	1738	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001362951.2	Transcript	synonymous_variant	1558	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001362953.2	Transcript	synonymous_variant	1675	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378624.1	Transcript	synonymous_variant	1621	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378625.1	Transcript	synonymous_variant	1756	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378626.1	Transcript	synonymous_variant	1693	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378627.1	Transcript	synonymous_variant	1558	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378628.1	Transcript	synonymous_variant	1953	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378629.1	Transcript	synonymous_variant	1797	1233	411	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378630.1	Transcript	synonymous_variant	892	786	262	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_001378631.1	Transcript	synonymous_variant	736	630	210	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_004737.7	Transcript	synonymous_variant	2016	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	NM_133642.5	Transcript	synonymous_variant	1953	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	YES	ENST00000397394.8	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_011530513.3	Transcript	synonymous_variant	4990	291	97	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_024452302.2	Transcript	synonymous_variant	2016	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_047441599.1	Transcript	synonymous_variant	7638	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_047441600.1	Transcript	synonymous_variant	2126	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_047441601.1	Transcript	synonymous_variant	8136	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_047441602.1	Transcript	synonymous_variant	2101	1389	463	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_047441603.1	Transcript	synonymous_variant	7581	723	241	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XM_047441606.1	Transcript	synonymous_variant	892	786	262	Y	taC/taT	rs115686643	LOW	protein_coding	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XR_002958722.2	Transcript	non_coding_transcript_exon_variant	1953	-	-	-	-	rs115686643	MODIFIER	misc_RNA	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XR_007067993.1	Transcript	non_coding_transcript_exon_variant	2016	-	-	-	-	rs115686643	MODIFIER	misc_RNA	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs115686643	22:33316147	A	LARGE1	XR_007067994.1	Transcript	non_coding_transcript_exon_variant	2016	-	-	-	-	rs115686643	MODIFIER	misc_RNA	NO	-	-	-	uncertain_significance	3.944e-05	3.557e-05
+rs59349720	22:33650466	A	LARGE1	NM_001362949.2	Transcript	synonymous_variant	658	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001362951.2	Transcript	synonymous_variant	478	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001362953.2	Transcript	synonymous_variant	595	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001378624.1	Transcript	synonymous_variant	541	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001378625.1	Transcript	synonymous_variant	676	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001378626.1	Transcript	synonymous_variant	613	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001378627.1	Transcript	synonymous_variant	478	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001378628.1	Transcript	synonymous_variant	873	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_001378629.1	Transcript	synonymous_variant	873	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_004737.7	Transcript	synonymous_variant	936	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	NM_133642.5	Transcript	synonymous_variant	873	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	YES	ENST00000397394.8	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_024452302.2	Transcript	synonymous_variant	936	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_024452303.2	Transcript	synonymous_variant	676	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_047441599.1	Transcript	synonymous_variant	6558	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_047441600.1	Transcript	synonymous_variant	1046	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_047441601.1	Transcript	synonymous_variant	7056	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_047441602.1	Transcript	synonymous_variant	1021	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_047441604.1	Transcript	synonymous_variant	873	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XM_047441605.1	Transcript	synonymous_variant	936	309	103	S	tcC/tcT	rs59349720	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XR_002958722.2	Transcript	non_coding_transcript_exon_variant	873	-	-	-	-	rs59349720	MODIFIER	misc_RNA	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XR_007067993.1	Transcript	non_coding_transcript_exon_variant	936	-	-	-	-	rs59349720	MODIFIER	misc_RNA	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs59349720	22:33650466	A	LARGE1	XR_007067994.1	Transcript	non_coding_transcript_exon_variant	936	-	-	-	-	rs59349720	MODIFIER	misc_RNA	NO	-	-	-	benign, likely_benign	0.01785	0.001794
+rs115801300	22:33650633	T	LARGE1	NM_001362949.2	Transcript	missense_variant	491	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001362951.2	Transcript	missense_variant	311	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001362953.2	Transcript	missense_variant	428	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001378624.1	Transcript	missense_variant	374	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001378625.1	Transcript	missense_variant	509	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001378626.1	Transcript	missense_variant	446	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001378627.1	Transcript	missense_variant	311	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.024)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001378628.1	Transcript	missense_variant	706	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.024)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_001378629.1	Transcript	missense_variant	706	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.15)	benign(0.06)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_004737.7	Transcript	missense_variant	769	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	NM_133642.5	Transcript	missense_variant	706	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	YES	ENST00000397394.8	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_024452302.2	Transcript	missense_variant	769	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.22)	benign(0.042)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_024452303.2	Transcript	missense_variant	509	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.14)	-	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_047441599.1	Transcript	missense_variant	6391	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_047441600.1	Transcript	missense_variant	879	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_047441601.1	Transcript	missense_variant	6889	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_047441602.1	Transcript	missense_variant	854	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.17)	benign(0.01)	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_047441604.1	Transcript	missense_variant	706	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.11)	-	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XM_047441605.1	Transcript	missense_variant	769	142	48	Q/K	Cag/Aag	rs115801300	MODERATE	protein_coding	NO	-	tolerated_low_confidence(0.11)	-	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XR_002958722.2	Transcript	non_coding_transcript_exon_variant	706	-	-	-	-	rs115801300	MODIFIER	misc_RNA	NO	-	-	-	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XR_007067993.1	Transcript	non_coding_transcript_exon_variant	769	-	-	-	-	rs115801300	MODIFIER	misc_RNA	NO	-	-	-	Not reported	-	0.0
+rs115801300	22:33650633	T	LARGE1	XR_007067994.1	Transcript	non_coding_transcript_exon_variant	769	-	-	-	-	rs115801300	MODIFIER	misc_RNA	NO	-	-	-	Not reported	-	0.0
+rs35978693	22:39225792	T	PDGFB	NM_002608.4	Transcript	synonymous_variant	1676	657	219	P	ccC/ccA	rs35978693	LOW	protein_coding	YES	ENST00000331163.11	-	-	benign, likely_benign	0.0152	0.001526
+rs35978693	22:39225792	T	PDGFB	NM_033016.3	Transcript	synonymous_variant	649	612	204	P	ccC/ccA	rs35978693	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.0152	0.001526
+rs35978693	22:39225792	T	PDGFB	XM_047441393.1	Transcript	synonymous_variant	709	564	188	P	ccC/ccA	rs35978693	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.0152	0.001526
+rs35978693	22:39225792	T	PDGFB	XM_047441394.1	Transcript	synonymous_variant	1604	564	188	P	ccC/ccA	rs35978693	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.0152	0.001526
+rs55634318	22:39231625	C	PDGFB	NM_002608.4	Transcript	synonymous_variant	1472	453	151	V	gtC/gtG	rs55634318	LOW	protein_coding	YES	ENST00000331163.11	-	-	benign, likely_benign	0.01975	0.01303
+rs55634318	22:39231625	C	PDGFB	NM_033016.3	Transcript	synonymous_variant	445	408	136	V	gtC/gtG	rs55634318	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01975	0.01303
+rs55634318	22:39231625	C	PDGFB	XM_047441393.1	Transcript	synonymous_variant	505	360	120	V	gtC/gtG	rs55634318	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01975	0.01303
+rs55634318	22:39231625	C	PDGFB	XM_047441394.1	Transcript	synonymous_variant	1400	360	120	V	gtC/gtG	rs55634318	LOW	protein_coding	NO	-	-	-	benign, likely_benign	0.01975	0.01303
+rs35429467	22:39374495	A	SYNGR1	NM_004711.5	Transcript	synonymous_variant	299	279	93	P	ccG/ccA	rs35429467	LOW	protein_coding	YES	ENST00000328933.10	-	-	Not reported	0.002232	0.0004489
+rs35429467	22:39374495	A	SYNGR1	NM_145731.4	Transcript	synonymous_variant	299	279	93	P	ccG/ccA	rs35429467	LOW	protein_coding	NO	-	-	-	Not reported	0.002232	0.0004489
+rs35429467	22:39374495	A	SYNGR1	NM_145738.3	Transcript	synonymous_variant	330	282	94	P	ccG/ccA	rs35429467	LOW	protein_coding	NO	-	-	-	Not reported	0.002232	0.0004489
+rs112945971	22:39744158	A	ENTHD1	NM_152512.4	Transcript	synonymous_variant	1566	1345	449	L	Ctg/Ttg	rs112945971	LOW	protein_coding	YES	ENST00000325157.7	-	-	Not reported	0.0002758	8.14e-05
+rs112945971	22:39744158	A	ENTHD1	XM_006724149.4	Transcript	synonymous_variant	2277	1345	449	L	Ctg/Ttg	rs112945971	LOW	protein_coding	NO	-	-	-	Not reported	0.0002758	8.14e-05
+rs112945971	22:39744158	A	ENTHD1	XM_006724150.4	Transcript	synonymous_variant	1257	1186	396	L	Ctg/Ttg	rs112945971	LOW	protein_coding	NO	-	-	-	Not reported	0.0002758	8.14e-05
+rs112945971	22:39744158	A	ENTHD1	XM_011529927.3	Transcript	synonymous_variant	1503	1282	428	L	Ctg/Ttg	rs112945971	LOW	protein_coding	NO	-	-	-	Not reported	0.0002758	8.14e-05
+rs112945971	22:39744158	A	ENTHD1	XM_011529928.3	Transcript	synonymous_variant	1323	1102	368	L	Ctg/Ttg	rs112945971	LOW	protein_coding	NO	-	-	-	Not reported	0.0002758	8.14e-05
+rs112945971	22:39744158	A	ENTHD1	XM_011529930.3	Transcript	synonymous_variant	615	553	185	L	Ctg/Ttg	rs112945971	LOW	protein_coding	NO	-	-	-	Not reported	0.0002758	8.14e-05
+rs111738363	22:39765567	G	ENTHD1	NM_152512.4	Transcript	missense_variant	1096	875	292	R/T	aGa/aCa	rs111738363	MODERATE	protein_coding	YES	ENST00000325157.7	tolerated(1)	-	Not reported	0.0002825	7.937e-05
+rs111738363	22:39765567	G	ENTHD1	XM_006724149.4	Transcript	missense_variant	1807	875	292	R/T	aGa/aCa	rs111738363	MODERATE	protein_coding	NO	-	tolerated(1)	-	Not reported	0.0002825	7.937e-05
+rs111738363	22:39765567	G	ENTHD1	XM_006724150.4	Transcript	missense_variant	787	716	239	R/T	aGa/aCa	rs111738363	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0002825	7.937e-05
+rs111738363	22:39765567	G	ENTHD1	XM_011529927.3	Transcript	missense_variant	1096	875	292	R/T	aGa/aCa	rs111738363	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0002825	7.937e-05
+rs111738363	22:39765567	G	ENTHD1	XM_011529928.3	Transcript	missense_variant	853	632	211	R/T	aGa/aCa	rs111738363	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0002825	7.937e-05
+rs111738363	22:39765567	G	ENTHD1	XM_011529930.3	Transcript	missense_variant	145	83	28	R/T	aGa/aCa	rs111738363	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0002825	7.937e-05
+rs111738363	22:39765567	G	ENTHD1	XM_011529931.3	Transcript	downstream_gene_variant	-	-	-	-	-	rs111738363	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0002825	7.937e-05
+rs8139570	22:39887557	G	ENTHD1	NM_152512.4	Transcript	synonymous_variant	413	192	64	H	caT/caC	rs8139570	LOW	protein_coding	YES	ENST00000325157.7	-	-	Not reported	0.01032	0.001008
+rs8139570	22:39887557	G	ENTHD1	XM_006724149.4	Transcript	synonymous_variant	1124	192	64	H	caT/caC	rs8139570	LOW	protein_coding	NO	-	-	-	Not reported	0.01032	0.001008
+rs8139570	22:39887557	G	ENTHD1	XM_006724150.4	Transcript	synonymous_variant	104	33	11	H	caT/caC	rs8139570	LOW	protein_coding	NO	-	-	-	Not reported	0.01032	0.001008
+rs8139570	22:39887557	G	ENTHD1	XM_006724153.4	Transcript	synonymous_variant	413	192	64	H	caT/caC	rs8139570	LOW	protein_coding	NO	-	-	-	Not reported	0.01032	0.001008
+rs8139570	22:39887557	G	ENTHD1	XM_011529927.3	Transcript	synonymous_variant	413	192	64	H	caT/caC	rs8139570	LOW	protein_coding	NO	-	-	-	Not reported	0.01032	0.001008
+rs8139570	22:39887557	G	ENTHD1	XM_011529928.3	Transcript	synonymous_variant	413	192	64	H	caT/caC	rs8139570	LOW	protein_coding	NO	-	-	-	Not reported	0.01032	0.001008
+rs8139570	22:39887557	G	ENTHD1	XM_011529931.3	Transcript	synonymous_variant	413	192	64	H	caT/caC	rs8139570	LOW	protein_coding	NO	-	-	-	Not reported	0.01032	0.001008
+rs115365592	22:40019319	T	FAM83F	NM_138435.4	Transcript	missense_variant	730	641	214	T/I	aCt/aTt	rs115365592	MODERATE	protein_coding	YES	ENST00000333407.11	deleterious(0.01)	benign(0.193)	Not reported	0.0005253	4.379e-05
+rs11914082	22:40021491	T	FAM83F	NM_138435.4	Transcript	synonymous_variant	1070	981	327	Y	taC/taT	rs11914082	LOW	protein_coding	YES	ENST00000333407.11	-	-	Not reported	0.01331	0.001527
+rs115818503	22:40021790	T	FAM83F	NM_138435.4	Transcript	missense_variant	1369	1280	427	A/V	gCg/gTg	rs115818503	MODERATE	protein_coding	YES	ENST00000333407.11	tolerated(0.25)	benign(0.071)	Not reported	0.002023	0.0002876
+rs115264708	22:44891338	C	PHF21B	NM_001135862.3	Transcript	missense_variant	1040	857	286	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	tolerated(0.07)	benign(0.035)	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	NM_001242450.2	Transcript	missense_variant	913	821	274	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	tolerated(0.07)	benign(0.009)	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	NM_001284296.2	Transcript	missense_variant	959	371	124	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	deleterious(0.03)	benign(0.003)	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	NM_001413063.1	Transcript	missense_variant	1313	857	286	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	tolerated(0.07)	benign(0.035)	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	NM_138415.5	Transcript	missense_variant	1439	983	328	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	YES	ENST00000313237.10	tolerated(0.06)	benign(0.015)	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	NR_134535.1	Transcript	non_coding_transcript_exon_variant	918	-	-	-	-	rs115264708	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	XM_011529855.2	Transcript	missense_variant	918	857	286	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	-	-	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	XM_047441109.1	Transcript	missense_variant	964	371	124	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	deleterious(0.03)	benign(0.003)	Not reported	0.002594	0.0002956
+rs115264708	22:44891338	C	PHF21B	XM_047441110.1	Transcript	missense_variant	18263	371	124	Y/C	tAt/tGt	rs115264708	MODERATE	protein_coding	NO	-	deleterious(0.03)	benign(0.003)	Not reported	0.002594	0.0002956
+rs115694109	22:44916394	A	PHF21B	NM_001135862.3	Transcript	synonymous_variant	633	450	150	Y	taC/taT	rs115694109	LOW	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	NM_001242450.2	Transcript	synonymous_variant	506	414	138	Y	taC/taT	rs115694109	LOW	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	NM_001284296.2	Transcript	5_prime_UTR_variant	552	-	-	-	-	rs115694109	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	NM_001413063.1	Transcript	synonymous_variant	906	450	150	Y	taC/taT	rs115694109	LOW	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	NM_138415.5	Transcript	synonymous_variant	906	450	150	Y	taC/taT	rs115694109	LOW	protein_coding	YES	ENST00000313237.10	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	NR_134535.1	Transcript	non_coding_transcript_exon_variant	511	-	-	-	-	rs115694109	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	XM_011529855.2	Transcript	synonymous_variant	511	450	150	Y	taC/taT	rs115694109	LOW	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	XM_047441109.1	Transcript	5_prime_UTR_variant	557	-	-	-	-	rs115694109	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs115694109	22:44916394	A	PHF21B	XM_047441110.1	Transcript	5_prime_UTR_variant	17856	-	-	-	-	rs115694109	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0005054	5.839e-05
+rs8135982	22:44916465	T	PHF21B	NM_001135862.3	Transcript	missense_variant	562	379	127	G/S	Ggc/Agc	rs8135982	MODERATE	protein_coding	NO	-	tolerated(0.46)	benign(0.01)	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	NM_001242450.2	Transcript	missense_variant	435	343	115	G/S	Ggc/Agc	rs8135982	MODERATE	protein_coding	NO	-	tolerated(0.43)	benign(0.001)	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	NM_001284296.2	Transcript	5_prime_UTR_variant	481	-	-	-	-	rs8135982	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	NM_001413063.1	Transcript	missense_variant	835	379	127	G/S	Ggc/Agc	rs8135982	MODERATE	protein_coding	NO	-	tolerated(0.46)	benign(0.01)	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	NM_138415.5	Transcript	missense_variant	835	379	127	G/S	Ggc/Agc	rs8135982	MODERATE	protein_coding	YES	ENST00000313237.10	tolerated(0.49)	benign(0.01)	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	NR_134535.1	Transcript	non_coding_transcript_exon_variant	440	-	-	-	-	rs8135982	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	XM_011529855.2	Transcript	missense_variant	440	379	127	G/S	Ggc/Agc	rs8135982	MODERATE	protein_coding	NO	-	-	-	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	XM_047441109.1	Transcript	5_prime_UTR_variant	486	-	-	-	-	rs8135982	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0816	0.06802
+rs8135982	22:44916465	T	PHF21B	XM_047441110.1	Transcript	5_prime_UTR_variant	17785	-	-	-	-	rs8135982	MODIFIER	protein_coding	NO	-	-	-	Not reported	0.0816	0.06802
+rs35195493	22:50177576	G	PANX2	NM_001160300.2	Transcript	synonymous_variant	864	864	288	R	cgC/cgG	rs35195493	LOW	protein_coding	NO	-	-	-	Not reported	0.004148	0.0004348
+rs35195493	22:50177576	G	PANX2	NM_052839.4	Transcript	synonymous_variant	864	864	288	R	cgC/cgG	rs35195493	LOW	protein_coding	YES	ENST00000395842.3	-	-	Not reported	0.004148	0.0004348
+rs35195493	22:50177576	G	PANX2	NR_027691.2	Transcript	non_coding_transcript_exon_variant	915	-	-	-	-	rs35195493	MODIFIER	misc_RNA	NO	-	-	-	Not reported	0.004148	0.0004348
+rs35195493	22:50177576	G	PANX2	XM_047441448.1	Transcript	synonymous_variant	915	462	154	R	cgC/cgG	rs35195493	LOW	protein_coding	NO	-	-	-	Not reported	0.004148	0.0004348
+rs35195493	22:50177576	G	PANX2	XM_047441449.1	Transcript	synonymous_variant	2861	462	154	R	cgC/cgG	rs35195493	LOW	protein_coding	NO	-	-	-	Not reported	0.004148	0.0004348
